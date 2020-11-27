@@ -8,6 +8,8 @@ httpx = "*"
 pyquery = "*"
 rich = "*"
 pillow = "*"
+asyncclick = "*"
+jsonstreams = "*"
 
 [dev-packages]
 pylint = "*"

@@ -13,6 +13,7 @@ from io import BytesIO
 import asyncclick as click
 from rich.console import Console
 from rich.progress import Progress, BarColumn, DownloadColumn, TransferSpeedColumn
+import jsonstreams
 
 console = Console()
 
@@ -74,22 +75,20 @@ def cli():
 @click.option("--rewrite", is_flag=True)
 async def fetch(file_name, rewrite):
     if not Path(file_name).exists() or rewrite:
-        cards = []
-
         async with httpx.AsyncClient() as client:
-            for stack, url in STACKS.items():
-                response = await client.get(url)
-
-                pages = int(get_pages(response.text))
-                for page in range(1, pages + 1):
-                    page_url = f"{url}?page={page}"
-                    response = await client.get(page_url)
-                    cards.extend(parse_page(response.text, stack))
-
-        sorted_cards = sorted(cards, key=itemgetter("id"))
-
-        with open(file_name, "w") as file:
-            json.dump({"cards": sorted_cards}, file, indent=2)
+            with jsonstreams.Stream(
+                jsonstreams.Type.object, filename=file_name, indent=2, pretty=True
+            ) as file_stream:
+                with file_stream.subarray("cards") as cards:
+                    for stack, url in STACKS.items():
+                        console.print(f"Fetching {stack}")
+                        response = await client.get(url)
+                        pages = int(get_pages(response.text))
+                        for page in range(1, pages + 1):
+                            page_url = f"{url}?page={page}"
+                            response = await client.get(page_url)
+                            page_cards = parse_page(response.text, stack)
+                            cards.iterwrite(page_cards)
     else:
         message = (
             f"File [bold magenta]{file_name}[/bold magenta] already exists!\n\n"
@@ -105,18 +104,19 @@ async def fetch(file_name, rewrite):
 @click.option("--rewrite", is_flag=True)
 async def download(file_name, directory, rewrite):
     try:
-        with open(file_name, "r") as file:
-            data = json.load(file)
-
+        with open(file_name, "r") as file_stream:
+            data = json.load(file_stream)
+            if not Path(directory).exists():
+                Path(directory).mkdir()
             async with httpx.AsyncClient() as client:
-                for card in data["cards"]:
-                    quoted_file_name = f"{card['id']} {card['title']}.png".replace(
+                for card in data.get("cards", []):
+                    image_name = f"{card.get('id')} {card.get('title')}.png".replace(
                         "/", "-"
                     )
-                    if not Path(f"{directory}/{quoted_file_name}").exists() or rewrite:
-                        response = await client.get(card["img"])
+                    if not Path(f"{directory}/{image_name}").exists() or rewrite:
+                        response = await client.get(card.get("img"))
                         img = Image.open(BytesIO(response.content))
-                        img.save(Path(f"{directory}/{quoted_file_name}"))
+                        img.save(Path(f"{directory}/{image_name}"))
     except FileNotFoundError as error:
         print("File doesn't exist", error)
     except json.decoder.JSONDecodeError as error:

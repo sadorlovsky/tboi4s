@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "97a1b985e3887d7f29297436e7d538381068b3812ecdf69b4e06a5d11f558dd3"
+            "sha256": "d66c9491bf241133fc33891054f88a15a2f4903bd9c2b6e46ea2c4a07eb31078"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,6 +16,21 @@
         ]
     },
     "default": {
+        "anyio": {
+            "hashes": [
+                "sha256:01cce0087b8fd8b6b7e629dc11505dcde02f916ce903332892cb2ae9817b597d",
+                "sha256:35075abd32cf20fd7e0be2fee3614e80b92d5392eba257c8d2f33de3df7ca237"
+            ],
+            "markers": "python_full_version >= '3.6.2'",
+            "version": "==2.0.2"
+        },
+        "asyncclick": {
+            "hashes": [
+                "sha256:c26962b9957abe7ae09c058afbfea199dedea1b54343c1cc2ae1a6a291fab333"
+            ],
+            "index": "pypi",
+            "version": "==7.1.2.3"
+        },
         "certifi": {
             "hashes": [
                 "sha256:1f422849db327d534e3d0c5f02a263458c3955ec0aae4ff09b95f195c59f4edd",
@@ -75,6 +90,14 @@
                 "sha256:b97d804b1e9b523befed77c48dacec60e6dcb0b5391d57af6a65a312a90648c0"
             ],
             "version": "==2.10"
+        },
+        "jsonstreams": {
+            "hashes": [
+                "sha256:adb58f50ae374fdc01ef7cf29958dee662b03e190519c6d32402ea903ac8fac5",
+                "sha256:ee5abc7d973c4ec14bcc89519879392981f4b29f05c725f2d0fe1f8a72df29e0"
+            ],
+            "index": "pypi",
+            "version": "==0.5.0"
         },
         "lxml": {
             "hashes": [
@@ -186,6 +209,14 @@
             ],
             "index": "pypi",
             "version": "==9.2.0"
+        },
+        "six": {
+            "hashes": [
+                "sha256:30639c035cdb23534cd4aa2dd52c3bf48f06e5f4a941509c8bafd8ce11080259",
+                "sha256:8b74bedcbbbaca38ff6d7491d76f2b06b3592611af620f8426e82dddb04a5ced"
+            ],
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
+            "version": "==1.15.0"
         },
         "sniffio": {
             "hashes": [
