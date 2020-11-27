@@ -1,0 +1,3040 @@
+{
+  "cards": [
+    {
+      "id": 70,
+      "img": "https://pop-life.com/foursouls/data/cards/001Dip.png",
+      "title": "DIP",
+      "stack": "monster"
+    },
+    {
+      "id": 71,
+      "img": "https://pop-life.com/foursouls/data/cards/002Pooter.png",
+      "title": "POOTER",
+      "stack": "monster"
+    },
+    {
+      "id": 72,
+      "img": "https://pop-life.com/foursouls/data/cards/003Fly.png",
+      "title": "FLY",
+      "stack": "monster"
+    },
+    {
+      "id": 73,
+      "img": "https://pop-life.com/foursouls/data/cards/004Trite(1).png",
+      "title": "TRITE",
+      "stack": "monster"
+    },
+    {
+      "id": 74,
+      "img": "https://pop-life.com/foursouls/data/cards/005Fatty.png",
+      "title": "FATTY",
+      "stack": "monster"
+    },
+    {
+      "id": 75,
+      "img": "https://pop-life.com/foursouls/data/cards/006Spider.png",
+      "title": "SPIDER",
+      "stack": "monster"
+    },
+    {
+      "id": 76,
+      "img": "https://pop-life.com/foursouls/data/cards/007ConjoinedFatty.png",
+      "title": "CONJOINED FATTY",
+      "stack": "monster"
+    },
+    {
+      "id": 77,
+      "img": "https://pop-life.com/foursouls/data/cards/008PaleFatty(1).png",
+      "title": "PALE FATTY",
+      "stack": "monster"
+    },
+    {
+      "id": 78,
+      "img": "https://pop-life.com/foursouls/data/cards/009Leech(1).png",
+      "title": "LEECH",
+      "stack": "monster"
+    },
+    {
+      "id": 79,
+      "img": "https://pop-life.com/foursouls/data/cards/010Clotty(1).png",
+      "title": "CLOTTY",
+      "stack": "monster"
+    },
+    {
+      "id": 80,
+      "img": "https://pop-life.com/foursouls/data/cards/011RedHost.png",
+      "title": "RED HOST",
+      "stack": "monster"
+    },
+    {
+      "id": 81,
+      "img": "https://pop-life.com/foursouls/data/cards/012Squirt(1).png",
+      "title": "SQUIRT",
+      "stack": "monster"
+    },
+    {
+      "id": 82,
+      "img": "https://pop-life.com/foursouls/data/cards/013FatBat.png",
+      "title": "FAT BAT",
+      "stack": "monster"
+    },
+    {
+      "id": 83,
+      "img": "https://pop-life.com/foursouls/data/cards/014CodWorm(1).png",
+      "title": "COD WORM",
+      "stack": "monster"
+    },
+    {
+      "id": 84,
+      "img": "https://pop-life.com/foursouls/data/cards/015SwarmFly.png",
+      "title": "SWARM OF FLIES",
+      "stack": "monster"
+    },
+    {
+      "id": 85,
+      "img": "https://pop-life.com/foursouls/data/cards/016BlackBony.png",
+      "title": "BLACK BONY",
+      "stack": "monster"
+    },
+    {
+      "id": 86,
+      "img": "https://pop-life.com/foursouls/data/cards/017Dinga.png",
+      "title": "DINGA",
+      "stack": "monster"
+    },
+    {
+      "id": 87,
+      "img": "https://pop-life.com/foursouls/data/cards/018RingofFlies(1).png",
+      "title": "RING OF FLIES",
+      "stack": "monster"
+    },
+    {
+      "id": 88,
+      "img": "https://pop-life.com/foursouls/data/cards/019Hanger(1).png",
+      "title": "HANGER",
+      "stack": "monster"
+    },
+    {
+      "id": 89,
+      "img": "https://pop-life.com/foursouls/data/cards/020Wizoob.png",
+      "title": "WIZOOB",
+      "stack": "monster"
+    },
+    {
+      "id": 90,
+      "img": "https://pop-life.com/foursouls/data/cards/021mulligan.png",
+      "title": "MULLIGAN",
+      "stack": "monster"
+    },
+    {
+      "id": 91,
+      "img": "https://pop-life.com/foursouls/data/cards/022Hopper(1).png",
+      "title": "HOPPER",
+      "stack": "monster"
+    },
+    {
+      "id": 92,
+      "img": "https://pop-life.com/foursouls/data/cards/023KeeperHead(1).png",
+      "title": "KEEPER HEAD",
+      "stack": "monster"
+    },
+    {
+      "id": 93,
+      "img": "https://pop-life.com/foursouls/data/cards/024BigSpider.png",
+      "title": "BIG SPIDER",
+      "stack": "monster"
+    },
+    {
+      "id": 94,
+      "img": "https://pop-life.com/foursouls/data/cards/025BoomFly.png",
+      "title": "BOOM FLY",
+      "stack": "monster"
+    },
+    {
+      "id": 95,
+      "img": "https://pop-life.com/foursouls/data/cards/027Dople(1).png",
+      "title": "DOPLE",
+      "stack": "monster"
+    },
+    {
+      "id": 96,
+      "img": "https://pop-life.com/foursouls/data/cards/028PsyHorf.png",
+      "title": "PSY HORF",
+      "stack": "monster"
+    },
+    {
+      "id": 97,
+      "img": "https://pop-life.com/foursouls/data/cards/029Portal(1).png",
+      "title": "PORTAL",
+      "stack": "monster"
+    },
+    {
+      "id": 98,
+      "img": "https://pop-life.com/foursouls/data/cards/030MomsDeadHand.png",
+      "title": "MOM'S DEAD HAND",
+      "stack": "monster"
+    },
+    {
+      "id": 99,
+      "img": "https://pop-life.com/foursouls/data/cards/031Greedling.png",
+      "title": "GREEDLING",
+      "stack": "monster"
+    },
+    {
+      "id": 100,
+      "img": "https://pop-life.com/foursouls/data/cards/032DankGlobin.png",
+      "title": "DANK GLOBIN",
+      "stack": "monster"
+    },
+    {
+      "id": 101,
+      "img": "https://pop-life.com/foursouls/data/cards/033EvilTwin(1).png",
+      "title": "EVIL TWIN",
+      "stack": "monster"
+    },
+    {
+      "id": 102,
+      "img": "https://pop-life.com/foursouls/data/cards/034Mulliboom.png",
+      "title": "MULLIBOOM",
+      "stack": "monster"
+    },
+    {
+      "id": 103,
+      "img": "https://pop-life.com/foursouls/data/cards/035MomsEye(2).png",
+      "title": "MOM'S EYE",
+      "stack": "monster"
+    },
+    {
+      "id": 104,
+      "img": "https://pop-life.com/foursouls/data/cards/026Leaper.png",
+      "title": "LEAPER",
+      "stack": "monster"
+    },
+    {
+      "id": 105,
+      "img": "https://pop-life.com/foursouls/data/cards/036RageCreep(1).png",
+      "title": "RAGE CREEP",
+      "stack": "monster"
+    },
+    {
+      "id": 106,
+      "img": "https://pop-life.com/foursouls/data/cards/037Horf(1).png",
+      "title": "HORF",
+      "stack": "monster"
+    },
+    {
+      "id": 107,
+      "img": "https://pop-life.com/foursouls/data/cards/038MomsHand.png",
+      "title": "MOM'S HAND",
+      "stack": "monster"
+    },
+    {
+      "id": 108,
+      "img": "https://pop-life.com/foursouls/data/cards/039Stoney(1).png",
+      "title": "STONEY",
+      "stack": "monster"
+    },
+    {
+      "id": 109,
+      "img": "https://pop-life.com/foursouls/data/cards/040HolyDip.png",
+      "title": "HOLY DIP",
+      "stack": "monster"
+    },
+    {
+      "id": 110,
+      "img": "https://pop-life.com/foursouls/data/cards/041HolyMomsEye.png",
+      "title": "HOLY MOM'S EYE",
+      "stack": "monster"
+    },
+    {
+      "id": 111,
+      "img": "https://pop-life.com/foursouls/data/cards/042HolyDinga.png",
+      "title": "HOLY DINGA",
+      "stack": "monster"
+    },
+    {
+      "id": 112,
+      "img": "https://pop-life.com/foursouls/data/cards/043HolyKeeperHead.png",
+      "title": "HOLY KEEPER HEAD",
+      "stack": "monster"
+    },
+    {
+      "id": 113,
+      "img": "https://pop-life.com/foursouls/data/cards/044HolySquirt.png",
+      "title": "HOLY SQUIRT",
+      "stack": "monster"
+    },
+    {
+      "id": 114,
+      "img": "https://pop-life.com/foursouls/data/cards/045CursedKeeperHead.png",
+      "title": "CURSED KEEPER HEAD",
+      "stack": "monster"
+    },
+    {
+      "id": 115,
+      "img": "https://pop-life.com/foursouls/data/cards/046CursedHorf.png",
+      "title": "CURSED HORF",
+      "stack": "monster"
+    },
+    {
+      "id": 116,
+      "img": "https://pop-life.com/foursouls/data/cards/047CursedFatty.png",
+      "title": "CURSED FATTY",
+      "stack": "monster"
+    },
+    {
+      "id": 117,
+      "img": "https://pop-life.com/foursouls/data/cards/048CursedMomsHand.png",
+      "title": "CURSED MOM'S HAND",
+      "stack": "monster"
+    },
+    {
+      "id": 118,
+      "img": "https://pop-life.com/foursouls/data/cards/049CursedPsyHorf.png",
+      "title": "CURSED PSY HORF",
+      "stack": "monster"
+    },
+    {
+      "id": 119,
+      "img": "https://pop-life.com/foursouls/data/cards/050CursedGaper.png",
+      "title": "CURSED GAPER",
+      "stack": "monster"
+    },
+    {
+      "id": 120,
+      "img": "https://pop-life.com/foursouls/data/cards/051GoldChest1.png",
+      "title": "GOLD CHEST 1",
+      "stack": "monster"
+    },
+    {
+      "id": 121,
+      "img": "https://pop-life.com/foursouls/data/cards/052GoldChest2.png",
+      "title": "GOLD CHEST 2",
+      "stack": "monster"
+    },
+    {
+      "id": 122,
+      "img": "https://pop-life.com/foursouls/data/cards/053DarkChest1(1).png",
+      "title": "DARK CHEST 1",
+      "stack": "monster"
+    },
+    {
+      "id": 123,
+      "img": "https://pop-life.com/foursouls/data/cards/054DarkChest2(1).png",
+      "title": "DARK CHEST 2",
+      "stack": "monster"
+    },
+    {
+      "id": 124,
+      "img": "https://pop-life.com/foursouls/data/cards/057SecretRoom.png",
+      "title": "SECRET ROOM!",
+      "stack": "monster"
+    },
+    {
+      "id": 125,
+      "img": "https://pop-life.com/foursouls/data/cards/058XLFLoor.png",
+      "title": "XL FLOOR!",
+      "stack": "monster"
+    },
+    {
+      "id": 126,
+      "img": "https://pop-life.com/foursouls/data/cards/059ShopUpgrade.png",
+      "title": "SHOP UPGRADE!",
+      "stack": "monster"
+    },
+    {
+      "id": 127,
+      "img": "https://pop-life.com/foursouls/data/cards/060WeNeedtogoDeeper.png",
+      "title": "WE NEED TO GO DEEPER!",
+      "stack": "monster"
+    },
+    {
+      "id": 128,
+      "img": "https://pop-life.com/foursouls/data/cards/061IcanSeeForever.png",
+      "title": "I CAN SEE FOREVER!",
+      "stack": "monster"
+    },
+    {
+      "id": 129,
+      "img": "https://pop-life.com/foursouls/data/cards/062TrollBombs.png",
+      "title": "TROLL BOMBS",
+      "stack": "monster"
+    },
+    {
+      "id": 130,
+      "img": "https://pop-life.com/foursouls/data/cards/055Chest1.png",
+      "title": "CHEST 1",
+      "stack": "monster"
+    },
+    {
+      "id": 131,
+      "img": "https://pop-life.com/foursouls/data/cards/056Chest2.png",
+      "title": "CHEST 2",
+      "stack": "monster"
+    },
+    {
+      "id": 132,
+      "img": "https://pop-life.com/foursouls/data/cards/063MegaTrollBomb.png",
+      "title": "MEGA TROLL BOMB!",
+      "stack": "monster"
+    },
+    {
+      "id": 133,
+      "img": "https://pop-life.com/foursouls/data/cards/064Ambush.png",
+      "title": "AMBUSH!",
+      "stack": "monster"
+    },
+    {
+      "id": 134,
+      "img": "https://pop-life.com/foursouls/data/cards/065Greed!.png",
+      "title": "GREED!",
+      "stack": "monster"
+    },
+    {
+      "id": 135,
+      "img": "https://pop-life.com/foursouls/data/cards/066DealWithTheDevil.png",
+      "title": "DEVIL DEAL",
+      "stack": "monster"
+    },
+    {
+      "id": 136,
+      "img": "https://pop-life.com/foursouls/data/cards/067CursedChest.png",
+      "title": "CURSED CHEST",
+      "stack": "monster"
+    },
+    {
+      "id": 137,
+      "img": "https://pop-life.com/foursouls/data/cards/068CurseofAmnesia.png",
+      "title": "CURSE OF AMNESIA",
+      "stack": "monster"
+    },
+    {
+      "id": 138,
+      "img": "https://pop-life.com/foursouls/data/cards/069CurseofGreed.png",
+      "title": "CURSE OF GREED",
+      "stack": "monster"
+    },
+    {
+      "id": 139,
+      "img": "https://pop-life.com/foursouls/data/cards/070CurseofLoss.png",
+      "title": "CURSE OF LOSS",
+      "stack": "monster"
+    },
+    {
+      "id": 140,
+      "img": "https://pop-life.com/foursouls/data/cards/071CurseofPain.png",
+      "title": "CURSE OF PAIN",
+      "stack": "monster"
+    },
+    {
+      "id": 141,
+      "img": "https://pop-life.com/foursouls/data/cards/072CurseoftheBlind(1).png",
+      "title": "CURSE OF THE BLIND",
+      "stack": "monster"
+    },
+    {
+      "id": 142,
+      "img": "https://pop-life.com/foursouls/data/cards/073Gurdy(1).png",
+      "title": "GURDY",
+      "stack": "monster"
+    },
+    {
+      "id": 143,
+      "img": "https://pop-life.com/foursouls/data/cards/074Monstro.png",
+      "title": "MONSTRO",
+      "stack": "monster"
+    },
+    {
+      "id": 144,
+      "img": "https://pop-life.com/foursouls/data/cards/075LittleHorn(2).png",
+      "title": "LITTLE HORN",
+      "stack": "monster"
+    },
+    {
+      "id": 145,
+      "img": "https://pop-life.com/foursouls/data/cards/076DarkOne(2).png",
+      "title": "DARK ONE",
+      "stack": "monster"
+    },
+    {
+      "id": 146,
+      "img": "https://pop-life.com/foursouls/data/cards/077LarryJr.png",
+      "title": "LARRY JR.",
+      "stack": "monster"
+    },
+    {
+      "id": 147,
+      "img": "https://pop-life.com/foursouls/data/cards/078DukeofFLies(1).png",
+      "title": "THE DUKE OF FLIES",
+      "stack": "monster"
+    },
+    {
+      "id": 148,
+      "img": "https://pop-life.com/foursouls/data/cards/079DaddyLongLegs(2).png",
+      "title": "DADDY LONG LEGS",
+      "stack": "monster"
+    },
+    {
+      "id": 149,
+      "img": "https://pop-life.com/foursouls/data/cards/080MegaFatty(1).png",
+      "title": "MEGA FATTY",
+      "stack": "monster"
+    },
+    {
+      "id": 150,
+      "img": "https://pop-life.com/foursouls/data/cards/081Famine.png",
+      "title": "FAMINE",
+      "stack": "monster"
+    },
+    {
+      "id": 151,
+      "img": "https://pop-life.com/foursouls/data/cards/082War(2).png",
+      "title": "WAR",
+      "stack": "monster"
+    },
+    {
+      "id": 152,
+      "img": "https://pop-life.com/foursouls/data/cards/083Death.png",
+      "title": "DEATH",
+      "stack": "monster"
+    },
+    {
+      "id": 153,
+      "img": "https://pop-life.com/foursouls/data/cards/084Pestilence(1).png",
+      "title": "PESTILENCE",
+      "stack": "monster"
+    },
+    {
+      "id": 154,
+      "img": "https://pop-life.com/foursouls/data/cards/085Conquest.png",
+      "title": "CONQUEST",
+      "stack": "monster"
+    },
+    {
+      "id": 155,
+      "img": "https://pop-life.com/foursouls/data/cards/086Pride.png",
+      "title": "PRIDE",
+      "stack": "monster"
+    },
+    {
+      "id": 156,
+      "img": "https://pop-life.com/foursouls/data/cards/087Wrath.png",
+      "title": "WRATH",
+      "stack": "monster"
+    },
+    {
+      "id": 157,
+      "img": "https://pop-life.com/foursouls/data/cards/088Gluttony(1).png",
+      "title": "GLUTTONY",
+      "stack": "monster"
+    },
+    {
+      "id": 158,
+      "img": "https://pop-life.com/foursouls/data/cards/089Envy.png",
+      "title": "ENVY",
+      "stack": "monster"
+    },
+    {
+      "id": 159,
+      "img": "https://pop-life.com/foursouls/data/cards/090Greed.png",
+      "title": "GREED",
+      "stack": "monster"
+    },
+    {
+      "id": 160,
+      "img": "https://pop-life.com/foursouls/data/cards/091Lust.png",
+      "title": "LUST",
+      "stack": "monster"
+    },
+    {
+      "id": 161,
+      "img": "https://pop-life.com/foursouls/data/cards/092Sloth.png",
+      "title": "SLOTH",
+      "stack": "monster"
+    },
+    {
+      "id": 162,
+      "img": "https://pop-life.com/foursouls/data/cards/093Pin.png",
+      "title": "PIN",
+      "stack": "monster"
+    },
+    {
+      "id": 163,
+      "img": "https://pop-life.com/foursouls/data/cards/094TheBloat.png",
+      "title": "THE BLOAT",
+      "stack": "monster"
+    },
+    {
+      "id": 164,
+      "img": "https://pop-life.com/foursouls/data/cards/100Ragman(1).png",
+      "title": "RAGMAN",
+      "stack": "monster"
+    },
+    {
+      "id": 165,
+      "img": "https://pop-life.com/foursouls/data/cards/095Chub.png",
+      "title": "CHUB",
+      "stack": "monster"
+    },
+    {
+      "id": 166,
+      "img": "https://pop-life.com/foursouls/data/cards/096Scolex.png",
+      "title": "SCOLEX",
+      "stack": "monster"
+    },
+    {
+      "id": 167,
+      "img": "https://pop-life.com/foursouls/data/cards/097Gemini.png",
+      "title": "GEMINI",
+      "stack": "monster"
+    },
+    {
+      "id": 168,
+      "img": "https://pop-life.com/foursouls/data/cards/098GurdyJr.png",
+      "title": "GURDY JR.",
+      "stack": "monster"
+    },
+    {
+      "id": 169,
+      "img": "https://pop-life.com/foursouls/data/cards/099Peep(2).png",
+      "title": "PEEP",
+      "stack": "monster"
+    },
+    {
+      "id": 170,
+      "img": "https://pop-life.com/foursouls/data/cards/101CarrionQueen.png",
+      "title": "CARRION QUEEN",
+      "stack": "monster"
+    },
+    {
+      "id": 171,
+      "img": "https://pop-life.com/foursouls/data/cards/102TheHaunt(1).png",
+      "title": "THE HAUNT",
+      "stack": "monster"
+    },
+    {
+      "id": 172,
+      "img": "https://pop-life.com/foursouls/data/cards/103MaskOfInfamy(1).png",
+      "title": "MASK OF INFAMY",
+      "stack": "monster"
+    },
+    {
+      "id": 173,
+      "img": "https://pop-life.com/foursouls/data/cards/104Mom!.png",
+      "title": "MOM!",
+      "stack": "monster"
+    },
+    {
+      "id": 174,
+      "img": "https://pop-life.com/foursouls/data/cards/105Satan!.png",
+      "title": "SATAN!",
+      "stack": "monster"
+    },
+    {
+      "id": 175,
+      "img": "https://pop-life.com/foursouls/data/cards/106TheLamb(2).png",
+      "title": "THE LAMB",
+      "stack": "monster"
+    },
+    {
+      "id": 176,
+      "img": "https://pop-life.com/foursouls/data/cards/107Delirium(2).png",
+      "title": "DELIRIUM",
+      "stack": "monster"
+    },
+    {
+      "id": 177,
+      "img": "https://pop-life.com/foursouls/data/cards/001TheRelic.png",
+      "title": "THE RELIC",
+      "stack": "treasure"
+    },
+    {
+      "id": 178,
+      "img": "https://pop-life.com/foursouls/data/cards/002DadsLostCoin(1).png",
+      "title": "DAD'S LOST COIN",
+      "stack": "treasure"
+    },
+    {
+      "id": 179,
+      "img": "https://pop-life.com/foursouls/data/cards/003Finger.png",
+      "title": "FINGER",
+      "stack": "treasure"
+    },
+    {
+      "id": 180,
+      "img": "https://pop-life.com/foursouls/data/cards/004ChargedBaby.png",
+      "title": "CHARGED BABY",
+      "stack": "treasure"
+    },
+    {
+      "id": 181,
+      "img": "https://pop-life.com/foursouls/data/cards/005D10(1).png",
+      "title": "THE D10",
+      "stack": "treasure"
+    },
+    {
+      "id": 182,
+      "img": "https://pop-life.com/foursouls/data/cards/006TarotCloth.png",
+      "title": "TAROT CLOTH",
+      "stack": "treasure"
+    },
+    {
+      "id": 183,
+      "img": "https://pop-life.com/foursouls/data/cards/007MomsBox(1).png",
+      "title": "MOM'S BOX",
+      "stack": "treasure"
+    },
+    {
+      "id": 184,
+      "img": "https://pop-life.com/foursouls/data/cards/008SpiderMod(1).png",
+      "title": "SPIDER MOD",
+      "stack": "treasure"
+    },
+    {
+      "id": 185,
+      "img": "https://pop-life.com/foursouls/data/cards/009EyeOfGReed(1).png",
+      "title": "EYE OF GREED",
+      "stack": "treasure"
+    },
+    {
+      "id": 186,
+      "img": "https://pop-life.com/foursouls/data/cards/010MomsRazor.png",
+      "title": "MOM'S RAZOR",
+      "stack": "treasure"
+    },
+    {
+      "id": 187,
+      "img": "https://pop-life.com/foursouls/data/cards/011CheeseGrater.png",
+      "title": "CHEESE GRATER",
+      "stack": "treasure"
+    },
+    {
+      "id": 188,
+      "img": "https://pop-life.com/foursouls/data/cards/012DeadBird.png",
+      "title": "DEAD BIRD",
+      "stack": "treasure"
+    },
+    {
+      "id": 189,
+      "img": "https://pop-life.com/foursouls/data/cards/013Dinner.png",
+      "title": "DINNER",
+      "stack": "treasure"
+    },
+    {
+      "id": 190,
+      "img": "https://pop-life.com/foursouls/data/cards/014Breakfast.png",
+      "title": "BREAKFAST",
+      "stack": "treasure"
+    },
+    {
+      "id": 191,
+      "img": "https://pop-life.com/foursouls/data/cards/015Synthoil.png",
+      "title": "SYNTHOIL",
+      "stack": "treasure"
+    },
+    {
+      "id": 192,
+      "img": "https://pop-life.com/foursouls/data/cards/016Meat!.png",
+      "title": "MEAT!",
+      "stack": "treasure"
+    },
+    {
+      "id": 193,
+      "img": "https://pop-life.com/foursouls/data/cards/017Polydactyl(1).png",
+      "title": "POLYDACTYL",
+      "stack": "treasure"
+    },
+    {
+      "id": 194,
+      "img": "https://pop-life.com/foursouls/data/cards/018BellyButton(1).png",
+      "title": "BELLY BUTTON",
+      "stack": "treasure"
+    },
+    {
+      "id": 195,
+      "img": "https://pop-life.com/foursouls/data/cards/019Brimstone.png",
+      "title": "BRIMSTONE",
+      "stack": "treasure"
+    },
+    {
+      "id": 196,
+      "img": "https://pop-life.com/foursouls/data/cards/020Ipecac.png",
+      "title": "IPECAC",
+      "stack": "treasure"
+    },
+    {
+      "id": 197,
+      "img": "https://pop-life.com/foursouls/data/cards/021MomsPurse.png",
+      "title": "MOM'S PURSE",
+      "stack": "treasure"
+    },
+    {
+      "id": 198,
+      "img": "https://pop-life.com/foursouls/data/cards/022momscoinpurse.png",
+      "title": "MOM'S COIN PURSE",
+      "stack": "treasure"
+    },
+    {
+      "id": 199,
+      "img": "https://pop-life.com/foursouls/data/cards/023TheresOptions(1).png",
+      "title": "THERE'S OPTIONS",
+      "stack": "treasure"
+    },
+    {
+      "id": 200,
+      "img": "https://pop-life.com/foursouls/data/cards/024ChampionBelt(1).png",
+      "title": "CHAMPION BELT",
+      "stack": "treasure"
+    },
+    {
+      "id": 201,
+      "img": "https://pop-life.com/foursouls/data/cards/025monstrostooth(1).png",
+      "title": "MONSTRO'S TOOTH",
+      "stack": "treasure"
+    },
+    {
+      "id": 202,
+      "img": "https://pop-life.com/foursouls/data/cards/026DryBaby.png",
+      "title": "DRY BABY",
+      "stack": "treasure"
+    },
+    {
+      "id": 203,
+      "img": "https://pop-life.com/foursouls/data/cards/027GoatHead(2).png",
+      "title": "GOAT HEAD",
+      "stack": "treasure"
+    },
+    {
+      "id": 204,
+      "img": "https://pop-life.com/foursouls/data/cards/028BlueMap.png",
+      "title": "BLUE MAP",
+      "stack": "treasure"
+    },
+    {
+      "id": 205,
+      "img": "https://pop-life.com/foursouls/data/cards/029Compass.png",
+      "title": "THE COMPASS",
+      "stack": "treasure"
+    },
+    {
+      "id": 206,
+      "img": "https://pop-life.com/foursouls/data/cards/030Map.png",
+      "title": "THE MAP",
+      "stack": "treasure"
+    },
+    {
+      "id": 207,
+      "img": "https://pop-life.com/foursouls/data/cards/031FannyPack(1).png",
+      "title": "FANNY PACK",
+      "stack": "treasure"
+    },
+    {
+      "id": 208,
+      "img": "https://pop-life.com/foursouls/data/cards/032TheHabit.png",
+      "title": "THE HABIT",
+      "stack": "treasure"
+    },
+    {
+      "id": 209,
+      "img": "https://pop-life.com/foursouls/data/cards/033CambionConception(1).png",
+      "title": "CAMBION CONCEPTION",
+      "stack": "treasure"
+    },
+    {
+      "id": 210,
+      "img": "https://pop-life.com/foursouls/data/cards/034GreedsGullet(1).png",
+      "title": "GREED'S GULLET",
+      "stack": "treasure"
+    },
+    {
+      "id": 211,
+      "img": "https://pop-life.com/foursouls/data/cards/035SuicideKing(1).png",
+      "title": "SUICIDE KING",
+      "stack": "treasure"
+    },
+    {
+      "id": 212,
+      "img": "https://pop-life.com/foursouls/data/cards/036TrinityShield(2).png",
+      "title": "TRINITY SHIELD",
+      "stack": "treasure"
+    },
+    {
+      "id": 213,
+      "img": "https://pop-life.com/foursouls/data/cards/037SteamySale.png",
+      "title": "STEAMY SALE",
+      "stack": "treasure"
+    },
+    {
+      "id": 214,
+      "img": "https://pop-life.com/foursouls/data/cards/038Shadow(1).png",
+      "title": "SHADOW",
+      "stack": "treasure"
+    },
+    {
+      "id": 215,
+      "img": "https://pop-life.com/foursouls/data/cards/039ShinyRock.png",
+      "title": "SHINY ROCK",
+      "stack": "treasure"
+    },
+    {
+      "id": 216,
+      "img": "https://pop-life.com/foursouls/data/cards/040MidasTouch.png",
+      "title": "THE MIDAS TOUCH",
+      "stack": "treasure"
+    },
+    {
+      "id": 217,
+      "img": "https://pop-life.com/foursouls/data/cards/041EdensBLessing(1).png",
+      "title": "EDEN'S BLESSING",
+      "stack": "treasure"
+    },
+    {
+      "id": 218,
+      "img": "https://pop-life.com/foursouls/data/cards/042ThePolaroid.png",
+      "title": "THE POLAROID",
+      "stack": "treasure"
+    },
+    {
+      "id": 219,
+      "img": "https://pop-life.com/foursouls/data/cards/043StarterDeck(1).png",
+      "title": "STARTER DECK",
+      "stack": "treasure"
+    },
+    {
+      "id": 220,
+      "img": "https://pop-life.com/foursouls/data/cards/044TheChest(1).png",
+      "title": "THE CHEST",
+      "stack": "treasure"
+    },
+    {
+      "id": 221,
+      "img": "https://pop-life.com/foursouls/data/cards/045Refresh(1).png",
+      "title": "REFRESH",
+      "stack": "treasure"
+    },
+    {
+      "id": 222,
+      "img": "https://pop-life.com/foursouls/data/cards/046DarkBum(1).png",
+      "title": "DARK BUM",
+      "stack": "treasure"
+    },
+    {
+      "id": 223,
+      "img": "https://pop-life.com/foursouls/data/cards/047EmptyVessel(1).png",
+      "title": "EMPTY VESSEL",
+      "stack": "treasure"
+    },
+    {
+      "id": 224,
+      "img": "https://pop-life.com/foursouls/data/cards/048Bumbo(2).png",
+      "title": "BUM-BO!",
+      "stack": "treasure"
+    },
+    {
+      "id": 225,
+      "img": "https://pop-life.com/foursouls/data/cards/049SacredHeart.png",
+      "title": "SACRED HEART",
+      "stack": "treasure"
+    },
+    {
+      "id": 226,
+      "img": "https://pop-life.com/foursouls/data/cards/050CurseOfTheTower(1).png",
+      "title": "CURSE OF THE TOWER",
+      "stack": "treasure"
+    },
+    {
+      "id": 227,
+      "img": "https://pop-life.com/foursouls/data/cards/051BabyHaunt.png",
+      "title": "BABY HAUNT",
+      "stack": "treasure"
+    },
+    {
+      "id": 228,
+      "img": "https://pop-life.com/foursouls/data/cards/052DaddyHaunt.png",
+      "title": "DADDY HAUNT",
+      "stack": "treasure"
+    },
+    {
+      "id": 229,
+      "img": "https://pop-life.com/foursouls/data/cards/053BobsBrain.png",
+      "title": "BOB'S BRAIN",
+      "stack": "treasure"
+    },
+    {
+      "id": 230,
+      "img": "https://pop-life.com/foursouls/data/cards/054TwoofClubs.png",
+      "title": "TWO OF CLUBS",
+      "stack": "treasure"
+    },
+    {
+      "id": 231,
+      "img": "https://pop-life.com/foursouls/data/cards/055MrBoom.png",
+      "title": "MR. BOOM",
+      "stack": "treasure"
+    },
+    {
+      "id": 232,
+      "img": "https://pop-life.com/foursouls/data/cards/056TechX(1).png",
+      "title": "TECH X",
+      "stack": "treasure"
+    },
+    {
+      "id": 233,
+      "img": "https://pop-life.com/foursouls/data/cards/057RazorBlade.png",
+      "title": "RAZOR BLADE",
+      "stack": "treasure"
+    },
+    {
+      "id": 234,
+      "img": "https://pop-life.com/foursouls/data/cards/058MiniMush.png",
+      "title": "MINI MUSH",
+      "stack": "treasure"
+    },
+    {
+      "id": 235,
+      "img": "https://pop-life.com/foursouls/data/cards/059LuckyFoot.png",
+      "title": "LUCKY FOOT",
+      "stack": "treasure"
+    },
+    {
+      "id": 236,
+      "img": "https://pop-life.com/foursouls/data/cards/060SpoonBender.png",
+      "title": "SPOON BENDER",
+      "stack": "treasure"
+    },
+    {
+      "id": 237,
+      "img": "https://pop-life.com/foursouls/data/cards/061Flush!(1).png",
+      "title": "FLUSH!",
+      "stack": "treasure"
+    },
+    {
+      "id": 238,
+      "img": "https://pop-life.com/foursouls/data/cards/062MonsterManual.png",
+      "title": "MONSTER MANUAL",
+      "stack": "treasure"
+    },
+    {
+      "id": 239,
+      "img": "https://pop-life.com/foursouls/data/cards/063TheShovel.png",
+      "title": "THE SHOVEL",
+      "stack": "treasure"
+    },
+    {
+      "id": 240,
+      "img": "https://pop-life.com/foursouls/data/cards/064D20.png",
+      "title": "THE D20",
+      "stack": "treasure"
+    },
+    {
+      "id": 241,
+      "img": "https://pop-life.com/foursouls/data/cards/065PotatoPeeler.png",
+      "title": "POTATO PEELER",
+      "stack": "treasure"
+    },
+    {
+      "id": 242,
+      "img": "https://pop-life.com/foursouls/data/cards/066SackHead.png",
+      "title": "SACK HEAD",
+      "stack": "treasure"
+    },
+    {
+      "id": 243,
+      "img": "https://pop-life.com/foursouls/data/cards/067BumFriend.png",
+      "title": "BUM FRIEND",
+      "stack": "treasure"
+    },
+    {
+      "id": 244,
+      "img": "https://pop-life.com/foursouls/data/cards/068Compost(2).png",
+      "title": "COMPOST",
+      "stack": "treasure"
+    },
+    {
+      "id": 245,
+      "img": "https://pop-life.com/foursouls/data/cards/069Diplopia(1).png",
+      "title": "DIPLOPIA",
+      "stack": "treasure"
+    },
+    {
+      "id": 246,
+      "img": "https://pop-life.com/foursouls/data/cards/070TheBattery(1).png",
+      "title": "THE BATTERY",
+      "stack": "treasure"
+    },
+    {
+      "id": 247,
+      "img": "https://pop-life.com/foursouls/data/cards/071BlankCard.png",
+      "title": "BLANK CARD",
+      "stack": "treasure"
+    },
+    {
+      "id": 248,
+      "img": "https://pop-life.com/foursouls/data/cards/072Placebo(1).png",
+      "title": "PLACEBO",
+      "stack": "treasure"
+    },
+    {
+      "id": 249,
+      "img": "https://pop-life.com/foursouls/data/cards/073MomsBra(1).png",
+      "title": "MOM'S BRA",
+      "stack": "treasure"
+    },
+    {
+      "id": 250,
+      "img": "https://pop-life.com/foursouls/data/cards/074No!.png",
+      "title": "NO!",
+      "stack": "treasure"
+    },
+    {
+      "id": 251,
+      "img": "https://pop-life.com/foursouls/data/cards/075HostHat(1).png",
+      "title": "HOST HAT",
+      "stack": "treasure"
+    },
+    {
+      "id": 252,
+      "img": "https://pop-life.com/foursouls/data/cards/076ThePoop(2).png",
+      "title": "THE POOP",
+      "stack": "treasure"
+    },
+    {
+      "id": 253,
+      "img": "https://pop-life.com/foursouls/data/cards/077Decoy(2).png",
+      "title": "DECOY",
+      "stack": "treasure"
+    },
+    {
+      "id": 254,
+      "img": "https://pop-life.com/foursouls/data/cards/078SackofPennies(1).png",
+      "title": "SACK OF PENNIES",
+      "stack": "treasure"
+    },
+    {
+      "id": 255,
+      "img": "https://pop-life.com/foursouls/data/cards/079JawBone.png",
+      "title": "JAWBONE",
+      "stack": "treasure"
+    },
+    {
+      "id": 256,
+      "img": "https://pop-life.com/foursouls/data/cards/080Boomerang(1).png",
+      "title": "BOOMERANG",
+      "stack": "treasure"
+    },
+    {
+      "id": 257,
+      "img": "https://pop-life.com/foursouls/data/cards/081ContractfromBelow(1).png",
+      "title": "CONTRACT FROM BELOW",
+      "stack": "treasure"
+    },
+    {
+      "id": 258,
+      "img": "https://pop-life.com/foursouls/data/cards/082Godhead(1).png",
+      "title": "GODHEAD",
+      "stack": "treasure"
+    },
+    {
+      "id": 259,
+      "img": "https://pop-life.com/foursouls/data/cards/083ModelingClay(2).png",
+      "title": "MODELING CLAY",
+      "stack": "treasure"
+    },
+    {
+      "id": 260,
+      "img": "https://pop-life.com/foursouls/data/cards/084D100.png",
+      "title": "THE D100",
+      "stack": "treasure"
+    },
+    {
+      "id": 261,
+      "img": "https://pop-life.com/foursouls/data/cards/085Chaos.png",
+      "title": "CHAOS",
+      "stack": "treasure"
+    },
+    {
+      "id": 262,
+      "img": "https://pop-life.com/foursouls/data/cards/086RemoteDetonator.png",
+      "title": "REMOTE DETONATOR",
+      "stack": "treasure"
+    },
+    {
+      "id": 263,
+      "img": "https://pop-life.com/foursouls/data/cards/087CrystalBall.png",
+      "title": "CRYSTAL BALL",
+      "stack": "treasure"
+    },
+    {
+      "id": 264,
+      "img": "https://pop-life.com/foursouls/data/cards/088MysterySack(1).png",
+      "title": "MYSTERY SACK",
+      "stack": "treasure"
+    },
+    {
+      "id": 265,
+      "img": "https://pop-life.com/foursouls/data/cards/089DonationMachine.png",
+      "title": "DONATION MACHINE",
+      "stack": "treasure"
+    },
+    {
+      "id": 266,
+      "img": "https://pop-life.com/foursouls/data/cards/090BookofSin(1).png",
+      "title": "BOOK OF SIN",
+      "stack": "treasure"
+    },
+    {
+      "id": 267,
+      "img": "https://pop-life.com/foursouls/data/cards/091GlassCannon(1).png",
+      "title": "GLASS CANNON",
+      "stack": "treasure"
+    },
+    {
+      "id": 268,
+      "img": "https://pop-life.com/foursouls/data/cards/092MomsShovel(1).png",
+      "title": "MOM'S SHOVEL",
+      "stack": "treasure"
+    },
+    {
+      "id": 269,
+      "img": "https://pop-life.com/foursouls/data/cards/093ChaosCard.png",
+      "title": "CHAOS CARD",
+      "stack": "treasure"
+    },
+    {
+      "id": 270,
+      "img": "https://pop-life.com/foursouls/data/cards/094Box!.png",
+      "title": "BOX!",
+      "stack": "treasure"
+    },
+    {
+      "id": 271,
+      "img": "https://pop-life.com/foursouls/data/cards/095PandorasBox(2).png",
+      "title": "PANDORA'S BOX",
+      "stack": "treasure"
+    },
+    {
+      "id": 272,
+      "img": "https://pop-life.com/foursouls/data/cards/096D4(1).png",
+      "title": "THE D4",
+      "stack": "treasure"
+    },
+    {
+      "id": 273,
+      "img": "https://pop-life.com/foursouls/data/cards/097BatteryBum.png",
+      "title": "BATTERY BUM",
+      "stack": "treasure"
+    },
+    {
+      "id": 274,
+      "img": "https://pop-life.com/foursouls/data/cards/098PaytoPlay.png",
+      "title": "PAY TO PLAY",
+      "stack": "treasure"
+    },
+    {
+      "id": 275,
+      "img": "https://pop-life.com/foursouls/data/cards/099GoldenRazor.png",
+      "title": "GOLDEN RAZOR BLADE",
+      "stack": "treasure"
+    },
+    {
+      "id": 276,
+      "img": "https://pop-life.com/foursouls/data/cards/100PortableSlot.png",
+      "title": "PORTABLE SLOT MACHINE",
+      "stack": "treasure"
+    },
+    {
+      "id": 277,
+      "img": "https://pop-life.com/foursouls/data/cards/101Smelter.png",
+      "title": "SMELTER",
+      "stack": "treasure"
+    },
+    {
+      "id": 278,
+      "img": "https://pop-life.com/foursouls/data/cards/102TheDeadCat.png",
+      "title": "THE DEAD CAT",
+      "stack": "treasure"
+    },
+    {
+      "id": 279,
+      "img": "https://pop-life.com/foursouls/data/cards/103GuppysHead(2).png",
+      "title": "GUPPY'S HEAD",
+      "stack": "treasure"
+    },
+    {
+      "id": 280,
+      "img": "https://pop-life.com/foursouls/data/cards/104GuppysPaw.png",
+      "title": "GUPPY'S PAW",
+      "stack": "treasure"
+    },
+    {
+      "id": 281,
+      "img": "https://pop-life.com/foursouls/data/cards/105GuppysCollar.png",
+      "title": "GUPPY'S COLLAR",
+      "stack": "treasure"
+    },
+    {
+      "id": 380,
+      "img": "https://pop-life.com/foursouls/data/cards/001SoulofGreed.png",
+      "title": "SOUL OF GREED",
+      "stack": "bonus_souls"
+    },
+    {
+      "id": 381,
+      "img": "https://pop-life.com/foursouls/data/cards/002SoulofGluttony.png",
+      "title": "SOUL OF GLUTTONY",
+      "stack": "bonus_souls"
+    },
+    {
+      "id": 382,
+      "img": "https://pop-life.com/foursouls/data/cards/003SoulofGuppy.png",
+      "title": "SOUL OF GUPPY",
+      "stack": "bonus_souls"
+    },
+    {
+      "id": 500,
+      "img": "https://pop-life.com/foursouls/data/cards/001D6(4).png",
+      "title": "THE D6",
+      "stack": "starting_item"
+    },
+    {
+      "id": 501,
+      "img": "https://pop-life.com/foursouls/data/cards/002SleightofHand(3).png",
+      "title": "SLEIGHT OF HAND",
+      "stack": "starting_item"
+    },
+    {
+      "id": 502,
+      "img": "https://pop-life.com/foursouls/data/cards/003YumHeart(4).png",
+      "title": "YUM HEART",
+      "stack": "starting_item"
+    },
+    {
+      "id": 503,
+      "img": "https://pop-life.com/foursouls/data/cards/004BookofBelial(3).png",
+      "title": "BOOK OF BELIAL",
+      "stack": "starting_item"
+    },
+    {
+      "id": 504,
+      "img": "https://pop-life.com/foursouls/data/cards/005BloodLust(4).png",
+      "title": "BLOOD LUST",
+      "stack": "starting_item"
+    },
+    {
+      "id": 505,
+      "img": "https://pop-life.com/foursouls/data/cards/006TheCurse(4).png",
+      "title": "THE CURSE",
+      "stack": "starting_item"
+    },
+    {
+      "id": 506,
+      "img": "https://pop-life.com/foursouls/data/cards/007Incubus(4).png",
+      "title": "INCUBUS",
+      "stack": "starting_item"
+    },
+    {
+      "id": 507,
+      "img": "https://pop-life.com/foursouls/data/cards/008ForeverAlone(3).png",
+      "title": "FOREVER ALONE",
+      "stack": "starting_item"
+    },
+    {
+      "id": 508,
+      "img": "https://pop-life.com/foursouls/data/cards/009LazarusRags(4).png",
+      "title": "LAZARUS' RAGS",
+      "stack": "starting_item"
+    },
+    {
+      "id": 509,
+      "img": "https://pop-life.com/foursouls/data/cards/010TheBone(3).png",
+      "title": "THE BONE",
+      "stack": "starting_item"
+    },
+    {
+      "id": 510,
+      "img": "https://pop-life.com/foursouls/data/cards/001Isaac(1).png",
+      "title": "ISAAC",
+      "stack": "character"
+    },
+    {
+      "id": 511,
+      "img": "https://pop-life.com/foursouls/data/cards/002Cain(1).png",
+      "title": "CAIN",
+      "stack": "character"
+    },
+    {
+      "id": 512,
+      "img": "https://pop-life.com/foursouls/data/cards/003Maggy(2).png",
+      "title": "MAGGY",
+      "stack": "character"
+    },
+    {
+      "id": 513,
+      "img": "https://pop-life.com/foursouls/data/cards/004Judas(1).png",
+      "title": "JUDAS",
+      "stack": "character"
+    },
+    {
+      "id": 514,
+      "img": "https://pop-life.com/foursouls/data/cards/005Samson(1).png",
+      "title": "SAMSON",
+      "stack": "character"
+    },
+    {
+      "id": 515,
+      "img": "https://pop-life.com/foursouls/data/cards/006Eve(1).png",
+      "title": "EVE",
+      "stack": "character"
+    },
+    {
+      "id": 516,
+      "img": "https://pop-life.com/foursouls/data/cards/007Lilith(1).png",
+      "title": "LILITH",
+      "stack": "character"
+    },
+    {
+      "id": 517,
+      "img": "https://pop-life.com/foursouls/data/cards/008BlueBaby(1).png",
+      "title": "BLUE BABY",
+      "stack": "character"
+    },
+    {
+      "id": 518,
+      "img": "https://pop-life.com/foursouls/data/cards/009Lazarus(2).png",
+      "title": "LAZARUS",
+      "stack": "character"
+    },
+    {
+      "id": 519,
+      "img": "https://pop-life.com/foursouls/data/cards/010TheForgotten(3).png",
+      "title": "THE FORGOTTEN",
+      "stack": "character"
+    },
+    {
+      "id": 520,
+      "img": "https://pop-life.com/foursouls/data/cards/011Eden(1).png",
+      "title": "EDEN",
+      "stack": "character"
+    },
+    {
+      "id": 521,
+      "img": "https://pop-life.com/foursouls/data/cards/001HolyMantle(4).png",
+      "title": "THE HOLY MANTLE",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 522,
+      "img": "https://pop-life.com/foursouls/data/cards/001OneCent1(3).png",
+      "title": "ONE CENT 1",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 523,
+      "img": "https://pop-life.com/foursouls/data/cards/001Ragling(3).png",
+      "title": "RAGLING",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 524,
+      "img": "https://pop-life.com/foursouls/data/cards/001TheLost(2).png",
+      "title": "THE LOST",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 525,
+      "img": "https://pop-life.com/foursouls/data/cards/001TheMissingPage(4).png",
+      "title": "THE MISSING PAGE",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 526,
+      "img": "https://pop-life.com/foursouls/data/cards/002Boil(3).png",
+      "title": "BOIL",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 527,
+      "img": "https://pop-life.com/foursouls/data/cards/002MoreOptions(4).png",
+      "title": "MORE OPTIONS",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 528,
+      "img": "https://pop-life.com/foursouls/data/cards/002OneCent2(1).png",
+      "title": "ONE CENT 2",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 529,
+      "img": "https://pop-life.com/foursouls/data/cards/002TheKeeper(2).png",
+      "title": "THE KEEPER",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 530,
+      "img": "https://pop-life.com/foursouls/data/cards/002WoodenNickel(3).png",
+      "title": "WOODEN NICKEL",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 531,
+      "img": "https://pop-life.com/foursouls/data/cards/003Azazel(1).png",
+      "title": "AZAZEL",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 532,
+      "img": "https://pop-life.com/foursouls/data/cards/003LordofthePit(3).png",
+      "title": "LORD OF THE PIT",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 533,
+      "img": "https://pop-life.com/foursouls/data/cards/003Parabite(2).png",
+      "title": "PARABITE",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 534,
+      "img": "https://pop-life.com/foursouls/data/cards/003SkeletonKey(2).png",
+      "title": "SKELETON KEY",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 535,
+      "img": "https://pop-life.com/foursouls/data/cards/003TwoCents1(2).png",
+      "title": "TWO CENTS 1",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 536,
+      "img": "https://pop-life.com/foursouls/data/cards/004Apollyon(1).png",
+      "title": "APOLLYON",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 537,
+      "img": "https://pop-life.com/foursouls/data/cards/004Gaper(4).png",
+      "title": "GAPER",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 538,
+      "img": "https://pop-life.com/foursouls/data/cards/004Placenta(2).png",
+      "title": "PLACENTA",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 539,
+      "img": "https://pop-life.com/foursouls/data/cards/004TwoCents2(1).png",
+      "title": "TWO CENTS 2",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 540,
+      "img": "https://pop-life.com/foursouls/data/cards/004Void(4).png",
+      "title": "VOID",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 541,
+      "img": "https://pop-life.com/foursouls/data/cards/005DeathsHead(6).png",
+      "title": "DEATH'S HEAD",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 542,
+      "img": "https://pop-life.com/foursouls/data/cards/005MomsKnife(3).png",
+      "title": "MOM\u2019S KNIFE",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 543,
+      "img": "https://pop-life.com/foursouls/data/cards/005ThreeCents1(2).png",
+      "title": "THREE CENTS 1",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 544,
+      "img": "https://pop-life.com/foursouls/data/cards/006DadsKey(2).png",
+      "title": "DAD\u2019S KEY",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 545,
+      "img": "https://pop-life.com/foursouls/data/cards/006RoundWorm(3).png",
+      "title": "ROUND WORM",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 546,
+      "img": "https://pop-life.com/foursouls/data/cards/006ThreeCents2(1).png",
+      "title": "THREE CENTS 2",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 547,
+      "img": "https://pop-life.com/foursouls/data/cards/007FourCents1(2).png",
+      "title": "FOUR CENTS 1",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 548,
+      "img": "https://pop-life.com/foursouls/data/cards/007Imp(4).png",
+      "title": "IMP",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 549,
+      "img": "https://pop-life.com/foursouls/data/cards/007Succubus(2).png",
+      "title": "SUCCUBUS",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 550,
+      "img": "https://pop-life.com/foursouls/data/cards/008FourCents2(1).png",
+      "title": "FOUR CENTS 2",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 551,
+      "img": "https://pop-life.com/foursouls/data/cards/008Infamy(2).png",
+      "title": "INFAMY",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 552,
+      "img": "https://pop-life.com/foursouls/data/cards/008Knight(3).png",
+      "title": "KNIGHT",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 553,
+      "img": "https://pop-life.com/foursouls/data/cards/009ChargedPenny(2).png",
+      "title": "CHARGED PENNY",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 554,
+      "img": "https://pop-life.com/foursouls/data/cards/009Charger(2).png",
+      "title": "CHARGER",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 555,
+      "img": "https://pop-life.com/foursouls/data/cards/009NineVolt(2).png",
+      "title": "NINE VOLT",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 556,
+      "img": "https://pop-life.com/foursouls/data/cards/010Begotten(4).png",
+      "title": "BEGOTTEN",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 557,
+      "img": "https://pop-life.com/foursouls/data/cards/010Bomb!5(2).png",
+      "title": "BOMB!",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 558,
+      "img": "https://pop-life.com/foursouls/data/cards/010SoyMilk(3).png",
+      "title": "SOY MILK",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 559,
+      "img": "https://pop-life.com/foursouls/data/cards/011GuppysTail(2).png",
+      "title": "GUPPY'S TAIL",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 560,
+      "img": "https://pop-life.com/foursouls/data/cards/011Joker(2).png",
+      "title": "JOKER",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 561,
+      "img": "https://pop-life.com/foursouls/data/cards/011TrapDoor(2).png",
+      "title": "TRAP DOOR",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 562,
+      "img": "https://pop-life.com/foursouls/data/cards/012IAmError(2).png",
+      "title": "I AM ERROR!",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 563,
+      "img": "https://pop-life.com/foursouls/data/cards/012OuijaBoard(3).png",
+      "title": "OUIJA BOARD",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 564,
+      "img": "https://pop-life.com/foursouls/data/cards/012PrayrCard(4).png",
+      "title": "HOLY CARD",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 565,
+      "img": "https://pop-life.com/foursouls/data/cards/013CurseofTinyHands(2).png",
+      "title": "CURSE OF TINY HANDS",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 566,
+      "img": "https://pop-life.com/foursouls/data/cards/013FruitCake(2).png",
+      "title": "FRUIT CAKE",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 567,
+      "img": "https://pop-life.com/foursouls/data/cards/013TwoofDiamonds(2).png",
+      "title": "TWO OF DIAMONDS",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 568,
+      "img": "https://pop-life.com/foursouls/data/cards/014CurseofFatigue(2).png",
+      "title": "CURSE OF FATIGUE",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 569,
+      "img": "https://pop-life.com/foursouls/data/cards/014ICantBelieve(2).png",
+      "title": "I CAN'T BELIEVE IT'S NOT BUTTER BEAN",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 570,
+      "img": "https://pop-life.com/foursouls/data/cards/014SoulHeart3(4).png",
+      "title": "SOUL HEART",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 571,
+      "img": "https://pop-life.com/foursouls/data/cards/015LibraryCard(1).png",
+      "title": "LIBRARY CARD",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 572,
+      "img": "https://pop-life.com/foursouls/data/cards/015Polycephalus(4).png",
+      "title": "POLYCEPHALUS",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 573,
+      "img": "https://pop-life.com/foursouls/data/cards/015Sack(2).png",
+      "title": "A SACK",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 574,
+      "img": "https://pop-life.com/foursouls/data/cards/016CreditCard(3).png",
+      "title": "CREDIT CARD",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 575,
+      "img": "https://pop-life.com/foursouls/data/cards/016TheBible(2).png",
+      "title": "THE BIBLE",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 576,
+      "img": "https://pop-life.com/foursouls/data/cards/016TheCage(3).png",
+      "title": "THE CAGE",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 577,
+      "img": "https://pop-life.com/foursouls/data/cards/017CrookedPenny(1).png",
+      "title": "CROOKED PENNY",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 578,
+      "img": "https://pop-life.com/foursouls/data/cards/017Hush(4).png",
+      "title": "!HUSH!",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 579,
+      "img": "https://pop-life.com/foursouls/data/cards/017Jera(2).png",
+      "title": "JERA",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 580,
+      "img": "https://pop-life.com/foursouls/data/cards/018ButterBean(1).png",
+      "title": "THE BUTTER BEAN",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 581,
+      "img": "https://pop-life.com/foursouls/data/cards/018Gurglings(5).png",
+      "title": "GURGLINGS",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 582,
+      "img": "https://pop-life.com/foursouls/data/cards/018PillPurple(2).png",
+      "title": "PILLS!",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 583,
+      "img": "https://pop-life.com/foursouls/data/cards/019LemonMishap(3).png",
+      "title": "LEMON MISHAP",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 584,
+      "img": "https://pop-life.com/foursouls/data/cards/019PinkEye(2).png",
+      "title": "PINK EYE",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 585,
+      "img": "https://pop-life.com/foursouls/data/cards/019Steven(5).png",
+      "title": "STEVEN",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 586,
+      "img": "https://pop-life.com/foursouls/data/cards/020Cancer(2).png",
+      "title": "CANCER",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 587,
+      "img": "https://pop-life.com/foursouls/data/cards/020Fistula(3).png",
+      "title": "FISTULA",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 588,
+      "img": "https://pop-life.com/foursouls/data/cards/020PlanC(3).png",
+      "title": "PLAN C",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 589,
+      "img": "https://pop-life.com/foursouls/data/cards/001OneCent1 copy.png",
+      "title": "ONE CENT 1",
+      "stack": "loot"
+    },
+    {
+      "id": 590,
+      "img": "https://pop-life.com/foursouls/data/cards/002OneCent2 copy.png",
+      "title": "ONE CENT 2",
+      "stack": "loot"
+    },
+    {
+      "id": 591,
+      "img": "https://pop-life.com/foursouls/data/cards/003OneCent3 copy.png",
+      "title": "ONE CENT 3",
+      "stack": "loot"
+    },
+    {
+      "id": 592,
+      "img": "https://pop-life.com/foursouls/data/cards/004OneCent4 copy.png",
+      "title": "ONE CENT 4",
+      "stack": "loot"
+    },
+    {
+      "id": 593,
+      "img": "https://pop-life.com/foursouls/data/cards/005OneCent5 copy.png",
+      "title": "ONE CENT 5",
+      "stack": "loot"
+    },
+    {
+      "id": 594,
+      "img": "https://pop-life.com/foursouls/data/cards/006OneCent6 copy.png",
+      "title": "ONE CENT 6",
+      "stack": "loot"
+    },
+    {
+      "id": 595,
+      "img": "https://pop-life.com/foursouls/data/cards/007TwoCents1 copy.png",
+      "title": "TWO CENT 1",
+      "stack": "loot"
+    },
+    {
+      "id": 596,
+      "img": "https://pop-life.com/foursouls/data/cards/008TwoCents2 copy.png",
+      "title": "TWO CENT 2",
+      "stack": "loot"
+    },
+    {
+      "id": 597,
+      "img": "https://pop-life.com/foursouls/data/cards/009TwoCents3 copy.png",
+      "title": "TWO CENT 3",
+      "stack": "loot"
+    },
+    {
+      "id": 598,
+      "img": "https://pop-life.com/foursouls/data/cards/010TwoCents4 copy.png",
+      "title": "TWO CENTS 4",
+      "stack": "loot"
+    },
+    {
+      "id": 599,
+      "img": "https://pop-life.com/foursouls/data/cards/011TwoCents5 copy.png",
+      "title": "TWO CENTS 5",
+      "stack": "loot"
+    },
+    {
+      "id": 600,
+      "img": "https://pop-life.com/foursouls/data/cards/012TwoCents6 copy.png",
+      "title": "TWO CENTS 6",
+      "stack": "loot"
+    },
+    {
+      "id": 601,
+      "img": "https://pop-life.com/foursouls/data/cards/013TwoCents7 copy.png",
+      "title": "TWO CENTS 7",
+      "stack": "loot"
+    },
+    {
+      "id": 602,
+      "img": "https://pop-life.com/foursouls/data/cards/014TwoCents8 copy.png",
+      "title": "TWO CENTS 8",
+      "stack": "loot"
+    },
+    {
+      "id": 603,
+      "img": "https://pop-life.com/foursouls/data/cards/015TwoCents9 copy.png",
+      "title": "TWO CENTS 9",
+      "stack": "loot"
+    },
+    {
+      "id": 604,
+      "img": "https://pop-life.com/foursouls/data/cards/016TwoCents10 copy.png",
+      "title": "TWO CENTS 10",
+      "stack": "loot"
+    },
+    {
+      "id": 605,
+      "img": "https://pop-life.com/foursouls/data/cards/017TwoCents11 copy.png",
+      "title": "TWO CENTS 11",
+      "stack": "expansion_pack"
+    },
+    {
+      "id": 606,
+      "img": "https://pop-life.com/foursouls/data/cards/018TwoCents12 copy.png",
+      "title": "TWO CENTS 12",
+      "stack": "loot"
+    },
+    {
+      "id": 607,
+      "img": "https://pop-life.com/foursouls/data/cards/019ThreeCents1 copy.png",
+      "title": "THREE CENTS 1",
+      "stack": "loot"
+    },
+    {
+      "id": 608,
+      "img": "https://pop-life.com/foursouls/data/cards/020ThreeCents2 copy.png",
+      "title": "THREE CENTS 2",
+      "stack": "loot"
+    },
+    {
+      "id": 609,
+      "img": "https://pop-life.com/foursouls/data/cards/021ThreeCents3 copy.png",
+      "title": "THREE CENTS 3",
+      "stack": "loot"
+    },
+    {
+      "id": 610,
+      "img": "https://pop-life.com/foursouls/data/cards/022ThreeCents4 copy.png",
+      "title": "THREE CENTS 4",
+      "stack": "loot"
+    },
+    {
+      "id": 611,
+      "img": "https://pop-life.com/foursouls/data/cards/023ThreeCents5 copy.png",
+      "title": "THREE CENTS 5",
+      "stack": "loot"
+    },
+    {
+      "id": 612,
+      "img": "https://pop-life.com/foursouls/data/cards/024ThreeCents6 copy.png",
+      "title": "THREE CENTS 6",
+      "stack": "loot"
+    },
+    {
+      "id": 613,
+      "img": "https://pop-life.com/foursouls/data/cards/025ThreeCents7 copy.png",
+      "title": "THREE CENTS 7",
+      "stack": "loot"
+    },
+    {
+      "id": 614,
+      "img": "https://pop-life.com/foursouls/data/cards/026ThreeCents8 copy.png",
+      "title": "THREE CENTS 8",
+      "stack": "loot"
+    },
+    {
+      "id": 615,
+      "img": "https://pop-life.com/foursouls/data/cards/027ThreeCents9 copy.png",
+      "title": "THREE CENTS 9",
+      "stack": "loot"
+    },
+    {
+      "id": 616,
+      "img": "https://pop-life.com/foursouls/data/cards/028ThreeCents10 copy.png",
+      "title": "THREE CENTS 10",
+      "stack": "loot"
+    },
+    {
+      "id": 617,
+      "img": "https://pop-life.com/foursouls/data/cards/029ThreeCents11 copy.png",
+      "title": "THREE CENTS 11",
+      "stack": "loot"
+    },
+    {
+      "id": 618,
+      "img": "https://pop-life.com/foursouls/data/cards/030ThreeCents12 copy.png",
+      "title": "THREE CENTS 12",
+      "stack": "loot"
+    },
+    {
+      "id": 619,
+      "img": "https://pop-life.com/foursouls/data/cards/031ThreeCents13 copy.png",
+      "title": "THREE CENTS 13",
+      "stack": "loot"
+    },
+    {
+      "id": 620,
+      "img": "https://pop-life.com/foursouls/data/cards/032ThreeCents14 copy.png",
+      "title": "THREE CENTS 14",
+      "stack": "loot"
+    },
+    {
+      "id": 621,
+      "img": "https://pop-life.com/foursouls/data/cards/033ThreeCents15 copy.png",
+      "title": "THREE CENTS 15",
+      "stack": "loot"
+    },
+    {
+      "id": 622,
+      "img": "https://pop-life.com/foursouls/data/cards/034FourCents1 copy.png",
+      "title": "FOUR CENTS 1",
+      "stack": "loot"
+    },
+    {
+      "id": 623,
+      "img": "https://pop-life.com/foursouls/data/cards/035FourCents2 copy.png",
+      "title": "FOUR CENTS 2",
+      "stack": "loot"
+    },
+    {
+      "id": 624,
+      "img": "https://pop-life.com/foursouls/data/cards/036FourCents3 copy.png",
+      "title": "FOUR CENTS 3",
+      "stack": "loot"
+    },
+    {
+      "id": 625,
+      "img": "https://pop-life.com/foursouls/data/cards/037FourCents4 copy.png",
+      "title": "FOUR CENTS 4",
+      "stack": "loot"
+    },
+    {
+      "id": 626,
+      "img": "https://pop-life.com/foursouls/data/cards/038FourCents5 copy.png",
+      "title": "FOUR CENTS 5",
+      "stack": "loot"
+    },
+    {
+      "id": 627,
+      "img": "https://pop-life.com/foursouls/data/cards/039FourCents6 copy.png",
+      "title": "FOUR CENTS 6",
+      "stack": "loot"
+    },
+    {
+      "id": 628,
+      "img": "https://pop-life.com/foursouls/data/cards/040FourCents7 copy.png",
+      "title": "FOUR CENTS 7",
+      "stack": "loot"
+    },
+    {
+      "id": 629,
+      "img": "https://pop-life.com/foursouls/data/cards/041FourCents8 copy.png",
+      "title": "FOUR CENTS 8",
+      "stack": "loot"
+    },
+    {
+      "id": 630,
+      "img": "https://pop-life.com/foursouls/data/cards/042FourCents9.png",
+      "title": "FOUR CENTS 9",
+      "stack": "loot"
+    },
+    {
+      "id": 631,
+      "img": "https://pop-life.com/foursouls/data/cards/043Nickel1(1).png",
+      "title": "A NICKEL 1",
+      "stack": "loot"
+    },
+    {
+      "id": 632,
+      "img": "https://pop-life.com/foursouls/data/cards/044Nickel2.png",
+      "title": "A NICKEL 2",
+      "stack": "loot"
+    },
+    {
+      "id": 633,
+      "img": "https://pop-life.com/foursouls/data/cards/045Nickel3.png",
+      "title": "A NICKEL 3",
+      "stack": "loot"
+    },
+    {
+      "id": 634,
+      "img": "https://pop-life.com/foursouls/data/cards/046Nickel4.png",
+      "title": "A NICKEL 4",
+      "stack": "loot"
+    },
+    {
+      "id": 635,
+      "img": "https://pop-life.com/foursouls/data/cards/047Nickel5.png",
+      "title": "A NICKEL 5",
+      "stack": "loot"
+    },
+    {
+      "id": 636,
+      "img": "https://pop-life.com/foursouls/data/cards/048Dime(1).png",
+      "title": "DIME",
+      "stack": "loot"
+    },
+    {
+      "id": 637,
+      "img": "https://pop-life.com/foursouls/data/cards/049ButterBean1(1).png",
+      "title": "BUTTER BEAN 1",
+      "stack": "loot"
+    },
+    {
+      "id": 638,
+      "img": "https://pop-life.com/foursouls/data/cards/050ButterBean2.png",
+      "title": "BUTTER BEAN 2",
+      "stack": "loot"
+    },
+    {
+      "id": 639,
+      "img": "https://pop-life.com/foursouls/data/cards/051ButterBean3.png",
+      "title": "BUTTER BEAN 3",
+      "stack": "loot"
+    },
+    {
+      "id": 640,
+      "img": "https://pop-life.com/foursouls/data/cards/052PillRed(2).png",
+      "title": "PILL RED",
+      "stack": "loot"
+    },
+    {
+      "id": 641,
+      "img": "https://pop-life.com/foursouls/data/cards/053PillBlue(1).png",
+      "title": "PILL BLUE",
+      "stack": "loot"
+    },
+    {
+      "id": 642,
+      "img": "https://pop-life.com/foursouls/data/cards/054PillYellow(1).png",
+      "title": "PILL YELLOW",
+      "stack": "loot"
+    },
+    {
+      "id": 643,
+      "img": "https://pop-life.com/foursouls/data/cards/055Bomb!1(1).png",
+      "title": "BOMB! 1",
+      "stack": "loot"
+    },
+    {
+      "id": 644,
+      "img": "https://pop-life.com/foursouls/data/cards/056Bomb!2.png",
+      "title": "BOMB! 2",
+      "stack": "loot"
+    },
+    {
+      "id": 645,
+      "img": "https://pop-life.com/foursouls/data/cards/057Bomb!3.png",
+      "title": "BOMB! 3",
+      "stack": "loot"
+    },
+    {
+      "id": 646,
+      "img": "https://pop-life.com/foursouls/data/cards/058Bomb!4.png",
+      "title": "BOMB! 4",
+      "stack": "loot"
+    },
+    {
+      "id": 647,
+      "img": "https://pop-life.com/foursouls/data/cards/059GoldBomb(1).png",
+      "title": "GOLD BOMB",
+      "stack": "loot"
+    },
+    {
+      "id": 648,
+      "img": "https://pop-life.com/foursouls/data/cards/060LilBattery1(1).png",
+      "title": "LIL BATTERY 1",
+      "stack": "loot"
+    },
+    {
+      "id": 649,
+      "img": "https://pop-life.com/foursouls/data/cards/061LilBattery2.png",
+      "title": "LIL BATTERY 2",
+      "stack": "loot"
+    },
+    {
+      "id": 650,
+      "img": "https://pop-life.com/foursouls/data/cards/062LilBattery3.png",
+      "title": "LIL BATTERY 3",
+      "stack": "loot"
+    },
+    {
+      "id": 651,
+      "img": "https://pop-life.com/foursouls/data/cards/063LilBattery4.png",
+      "title": "LIL BATTERY 4",
+      "stack": "loot"
+    },
+    {
+      "id": 652,
+      "img": "https://pop-life.com/foursouls/data/cards/064MegaBattery(1).png",
+      "title": "MEGA BATTERY",
+      "stack": "loot"
+    },
+    {
+      "id": 653,
+      "img": "https://pop-life.com/foursouls/data/cards/065DiceShard1(2).png",
+      "title": "DICE SHARD 1",
+      "stack": "loot"
+    },
+    {
+      "id": 654,
+      "img": "https://pop-life.com/foursouls/data/cards/066DiceShard2(1).png",
+      "title": "DICE SHARD 2",
+      "stack": "loot"
+    },
+    {
+      "id": 655,
+      "img": "https://pop-life.com/foursouls/data/cards/067DiceShard3(1).png",
+      "title": "DICE SHARD 3",
+      "stack": "loot"
+    },
+    {
+      "id": 656,
+      "img": "https://pop-life.com/foursouls/data/cards/068SoulHeart1(1).png",
+      "title": "SOUL HEART 1",
+      "stack": "loot"
+    },
+    {
+      "id": 657,
+      "img": "https://pop-life.com/foursouls/data/cards/069SoulHeart2.png",
+      "title": "SOUL HEART 2",
+      "stack": "loot"
+    },
+    {
+      "id": 658,
+      "img": "https://pop-life.com/foursouls/data/cards/070BlankRune(2).png",
+      "title": "BLANK RUNE",
+      "stack": "loot"
+    },
+    {
+      "id": 659,
+      "img": "https://pop-life.com/foursouls/data/cards/071Dagaz(1).png",
+      "title": "DAGAZ",
+      "stack": "loot"
+    },
+    {
+      "id": 660,
+      "img": "https://pop-life.com/foursouls/data/cards/072Ehwaz(2).png",
+      "title": "EHWAZ",
+      "stack": "loot"
+    },
+    {
+      "id": 661,
+      "img": "https://pop-life.com/foursouls/data/cards/073BloodPenny(1).png",
+      "title": "BLOOD PENNY",
+      "stack": "loot"
+    },
+    {
+      "id": 662,
+      "img": "https://pop-life.com/foursouls/data/cards/074SwallowedPenny(1).png",
+      "title": "SWALLOWED PENNY",
+      "stack": "loot"
+    },
+    {
+      "id": 663,
+      "img": "https://pop-life.com/foursouls/data/cards/075CounterfietPenny(2).png",
+      "title": "COUNTERFEIT PENNY",
+      "stack": "loot"
+    },
+    {
+      "id": 664,
+      "img": "https://pop-life.com/foursouls/data/cards/076CainsEye(2).png",
+      "title": "CAIN'S EYE",
+      "stack": "loot"
+    },
+    {
+      "id": 665,
+      "img": "https://pop-life.com/foursouls/data/cards/077BrokenAnkh(2).png",
+      "title": "BROKEN ANKH",
+      "stack": "loot"
+    },
+    {
+      "id": 666,
+      "img": "https://pop-life.com/foursouls/data/cards/078CurvedHorn(1).png",
+      "title": "CURVED HORN",
+      "stack": "loot"
+    },
+    {
+      "id": 667,
+      "img": "https://pop-life.com/foursouls/data/cards/079PurpleHeart(2).png",
+      "title": "PURPLE HEART",
+      "stack": "loot"
+    },
+    {
+      "id": 668,
+      "img": "https://pop-life.com/foursouls/data/cards/080GoldenHorseshoe(2).png",
+      "title": "GOLDEN HORSESHOE",
+      "stack": "loot"
+    },
+    {
+      "id": 669,
+      "img": "https://pop-life.com/foursouls/data/cards/081GuppysHairball(1).png",
+      "title": "GUPPY'S HAIRBALL",
+      "stack": "loot"
+    },
+    {
+      "id": 670,
+      "img": "https://pop-life.com/foursouls/data/cards/082LostSoul(1).png",
+      "title": "LOST SOUL",
+      "stack": "loot"
+    },
+    {
+      "id": 671,
+      "img": "https://pop-life.com/foursouls/data/cards/083TheFool(1).png",
+      "title": "THE FOOL",
+      "stack": "loot"
+    },
+    {
+      "id": 672,
+      "img": "https://pop-life.com/foursouls/data/cards/084ITheMagician(1).png",
+      "title": "THE MAGICIAN",
+      "stack": "loot"
+    },
+    {
+      "id": 673,
+      "img": "https://pop-life.com/foursouls/data/cards/085IITheHighPriestess(1).png",
+      "title": "THE HIGH PRIESTESS",
+      "stack": "loot"
+    },
+    {
+      "id": 674,
+      "img": "https://pop-life.com/foursouls/data/cards/086IIITheEmpress(1).png",
+      "title": "THE EMPRESS",
+      "stack": "loot"
+    },
+    {
+      "id": 675,
+      "img": "https://pop-life.com/foursouls/data/cards/087IVTheEmperor(1).png",
+      "title": "IV. THE EMPEROR",
+      "stack": "loot"
+    },
+    {
+      "id": 676,
+      "img": "https://pop-life.com/foursouls/data/cards/088VTheHeirophant(2).png",
+      "title": "V. THE HIEROPHANT",
+      "stack": "loot"
+    },
+    {
+      "id": 677,
+      "img": "https://pop-life.com/foursouls/data/cards/089VITheLovers(1).png",
+      "title": "VI THE LOVERS",
+      "stack": "loot"
+    },
+    {
+      "id": 678,
+      "img": "https://pop-life.com/foursouls/data/cards/090VIITheChariot(1).png",
+      "title": "VII THE CHARIOT",
+      "stack": "loot"
+    },
+    {
+      "id": 679,
+      "img": "https://pop-life.com/foursouls/data/cards/091VIIIJustice(2).png",
+      "title": "VIII JUSTICE",
+      "stack": "loot"
+    },
+    {
+      "id": 680,
+      "img": "https://pop-life.com/foursouls/data/cards/092IXTheHermit(1).png",
+      "title": "IX THE HERMIT",
+      "stack": "loot"
+    },
+    {
+      "id": 681,
+      "img": "https://pop-life.com/foursouls/data/cards/093XWheelofFortune(2).png",
+      "title": "X WHEEL OF FORTUNE",
+      "stack": "loot"
+    },
+    {
+      "id": 682,
+      "img": "https://pop-life.com/foursouls/data/cards/094XIStrength(2).png",
+      "title": "XI STRENGTH",
+      "stack": "loot"
+    },
+    {
+      "id": 683,
+      "img": "https://pop-life.com/foursouls/data/cards/095XIITheHangedMan(2).png",
+      "title": "XII HANGED MAN",
+      "stack": "loot"
+    },
+    {
+      "id": 684,
+      "img": "https://pop-life.com/foursouls/data/cards/096XIIIDeath(1).png",
+      "title": "XIII DEATH",
+      "stack": "loot"
+    },
+    {
+      "id": 685,
+      "img": "https://pop-life.com/foursouls/data/cards/097XIVTheTower(2).png",
+      "title": "XIV THE TOWER",
+      "stack": "loot"
+    },
+    {
+      "id": 686,
+      "img": "https://pop-life.com/foursouls/data/cards/098XVTheDevil(2).png",
+      "title": "XV THE DEVIL",
+      "stack": "loot"
+    },
+    {
+      "id": 687,
+      "img": "https://pop-life.com/foursouls/data/cards/099XVITemperance(1).png",
+      "title": "XVI TEMPERANCE",
+      "stack": "loot"
+    },
+    {
+      "id": 688,
+      "img": "https://pop-life.com/foursouls/data/cards/100XVIITheStars(1).png",
+      "title": "XVII THE STARS",
+      "stack": "loot"
+    },
+    {
+      "id": 689,
+      "img": "https://pop-life.com/foursouls/data/cards/101XVIIITheMoon(1).png",
+      "title": "XVIII THE MOON",
+      "stack": "loot"
+    },
+    {
+      "id": 690,
+      "img": "https://pop-life.com/foursouls/data/cards/102XIXTheSun(2).png",
+      "title": "XIX THE SUN",
+      "stack": "loot"
+    },
+    {
+      "id": 691,
+      "img": "https://pop-life.com/foursouls/data/cards/103XXJudgement(2).png",
+      "title": "XX JUDGEMENT",
+      "stack": "loot"
+    },
+    {
+      "id": 692,
+      "img": "https://pop-life.com/foursouls/data/cards/104XXITheWorld(2).png",
+      "title": "XXI THE WORLD",
+      "stack": "loot"
+    },
+    {
+      "id": 693,
+      "img": "https://pop-life.com/foursouls/data/cards/001Guppy (2).png",
+      "title": "GUPPY",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 694,
+      "img": "https://pop-life.com/foursouls/data/cards/001Guppy(1).png",
+      "title": "GUPPY",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 695,
+      "img": "https://pop-life.com/foursouls/data/cards/002Bumbo.png",
+      "title": "BUM-BO!",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 696,
+      "img": "https://pop-life.com/foursouls/data/cards/003WhoreofBabylon.png",
+      "title": "WHORE OF BABYLON",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 697,
+      "img": "https://pop-life.com/foursouls/data/cards/004DarkJudas.png",
+      "title": "DARK JUDAS",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 698,
+      "img": "https://pop-life.com/foursouls/data/cards/005Infestation.png",
+      "title": "INFESTATION",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 699,
+      "img": "https://pop-life.com/foursouls/data/cards/006BagoTrash.png",
+      "title": "BAG-O-TRASH",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 700,
+      "img": "https://pop-life.com/foursouls/data/cards/007Gimpy.png",
+      "title": "GIMPY",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 701,
+      "img": "https://pop-life.com/foursouls/data/cards/008DarkArts.png",
+      "title": "DARK ARTS",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 702,
+      "img": "https://pop-life.com/foursouls/data/cards/030GoldKey.png",
+      "title": "GOLD KEY",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 703,
+      "img": "https://pop-life.com/foursouls/data/cards/029GetOutofJail.png",
+      "title": "GET OUT OF JAIL CARD",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 704,
+      "img": "https://pop-life.com/foursouls/data/cards/028QuestionCard.png",
+      "title": "QUESTION CARD",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 705,
+      "img": "https://pop-life.com/foursouls/data/cards/027PillWhite.png",
+      "title": "PILLS! (WHITE)",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 706,
+      "img": "https://pop-life.com/foursouls/data/cards/025PillBlack.png",
+      "title": "PILLS! (BLACK)",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 707,
+      "img": "https://pop-life.com/foursouls/data/cards/026PillSpots.png",
+      "title": "PILLS! (SPOTS)",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 708,
+      "img": "https://pop-life.com/foursouls/data/cards/024LeftHand.png",
+      "title": "THE LEFT HAND",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 709,
+      "img": "https://pop-life.com/foursouls/data/cards/023PokerChip.png",
+      "title": "POKER CHIP",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 710,
+      "img": "https://pop-life.com/foursouls/data/cards/021TapeWorm.png",
+      "title": "TAPE WORM",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 711,
+      "img": "https://pop-life.com/foursouls/data/cards/022AAABattery.png",
+      "title": "AAA BATTERY",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 712,
+      "img": "https://pop-life.com/foursouls/data/cards/020BlackRune.png",
+      "title": "BLACK RUNE",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 713,
+      "img": "https://pop-life.com/foursouls/data/cards/019Ansuz.png",
+      "title": "ANSUZ",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 714,
+      "img": "https://pop-life.com/foursouls/data/cards/018Perthro.png",
+      "title": "PERTHRO",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 715,
+      "img": "https://pop-life.com/foursouls/data/cards/017ButterBean.png",
+      "title": "BUTTER BEAN!",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 716,
+      "img": "https://pop-life.com/foursouls/data/cards/016LilBattery.png",
+      "title": "LIL BATTERY",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 717,
+      "img": "https://pop-life.com/foursouls/data/cards/015DiceShard.png",
+      "title": "DICE SHARD",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 718,
+      "img": "https://pop-life.com/foursouls/data/cards/014Bomb_.png",
+      "title": "BOMB!",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 719,
+      "img": "https://pop-life.com/foursouls/data/cards/013Nickel.png",
+      "title": "A NICKEL!",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 720,
+      "img": "https://pop-life.com/foursouls/data/cards/011FourCents1.png",
+      "title": "4 CENTS!",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 721,
+      "img": "https://pop-life.com/foursouls/data/cards/013Nickel(1).png",
+      "title": "A NICKEL!",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 722,
+      "img": "https://pop-life.com/foursouls/data/cards/012FourCents2.png",
+      "title": "4 CENTS!",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 723,
+      "img": "https://pop-life.com/foursouls/data/cards/007ThreeCents1.png",
+      "title": "3 CENTS!",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 724,
+      "img": "https://pop-life.com/foursouls/data/cards/008ThreeCents2.png",
+      "title": "3 CENTS!",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 725,
+      "img": "https://pop-life.com/foursouls/data/cards/009ThreeCents3.png",
+      "title": "3 CENTS!",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 726,
+      "img": "https://pop-life.com/foursouls/data/cards/010ThreeCents4.png",
+      "title": "3 CENTS!",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 727,
+      "img": "https://pop-life.com/foursouls/data/cards/004TwoCents1.png",
+      "title": "2 CENTS!",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 728,
+      "img": "https://pop-life.com/foursouls/data/cards/005TwoCents2.png",
+      "title": "2 CENTS!",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 729,
+      "img": "https://pop-life.com/foursouls/data/cards/006TwoCents3.png",
+      "title": "2 CENTS!",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 730,
+      "img": "https://pop-life.com/foursouls/data/cards/001OneCent1(4).png",
+      "title": "A PENNY!",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 731,
+      "img": "https://pop-life.com/foursouls/data/cards/002OneCent2(2).png",
+      "title": "A PENNY!",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 732,
+      "img": "https://pop-life.com/foursouls/data/cards/003OneCent3.png",
+      "title": "A PENNY!",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 733,
+      "img": "https://pop-life.com/foursouls/data/cards/030MomsHeart.png",
+      "title": "MOM'S HEART!",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 734,
+      "img": "https://pop-life.com/foursouls/data/cards/028Isaac_.png",
+      "title": "ISAAC!",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 735,
+      "img": "https://pop-life.com/foursouls/data/cards/029Headlesshorseman.png",
+      "title": "HEADLESS HORSEMAN",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 736,
+      "img": "https://pop-life.com/foursouls/data/cards/027Krampus.png",
+      "title": "KRAMPUS",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 737,
+      "img": "https://pop-life.com/foursouls/data/cards/026TheFallen.png",
+      "title": "THE FALLEN",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 738,
+      "img": "https://pop-life.com/foursouls/data/cards/024Blastocyst.png",
+      "title": "BLASTOCYST",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 739,
+      "img": "https://pop-life.com/foursouls/data/cards/025MonstroII.png",
+      "title": "MONSTRO II",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 740,
+      "img": "https://pop-life.com/foursouls/data/cards/023Dingle.png",
+      "title": "DINGLE",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 741,
+      "img": "https://pop-life.com/foursouls/data/cards/022Widow.png",
+      "title": "WIDOW",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 742,
+      "img": "https://pop-life.com/foursouls/data/cards/021CurseofBloodLust.png",
+      "title": "CURSE OF BLOOD LUST",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 743,
+      "img": "https://pop-life.com/foursouls/data/cards/020CurseofImpulse.png",
+      "title": "CURSE OF IMPULSE",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 744,
+      "img": "https://pop-life.com/foursouls/data/cards/019BossRush.png",
+      "title": "BOSS RUSH!",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 745,
+      "img": "https://pop-life.com/foursouls/data/cards/018AngelRoom.png",
+      "title": "ANGEL ROOM",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 746,
+      "img": "https://pop-life.com/foursouls/data/cards/016TrollBombs2.png",
+      "title": "TROLL BOMBS",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 747,
+      "img": "https://pop-life.com/foursouls/data/cards/017HeadTrauma.png",
+      "title": "HEAD TRAUMA",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 748,
+      "img": "https://pop-life.com/foursouls/data/cards/015SpikedChest.png",
+      "title": "SPIKED CHEST",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 749,
+      "img": "https://pop-life.com/foursouls/data/cards/014HolyChest.png",
+      "title": "HOLY CHEST",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 750,
+      "img": "https://pop-life.com/foursouls/data/cards/013NerveEnding.png",
+      "title": "NERVE ENDING",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 751,
+      "img": "https://pop-life.com/foursouls/data/cards/012Brain.png",
+      "title": "BRAIN",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 752,
+      "img": "https://pop-life.com/foursouls/data/cards/010CursedGlobin.png",
+      "title": "CURSED GOBLIN",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 753,
+      "img": "https://pop-life.com/foursouls/data/cards/011Swarmer.png",
+      "title": "SWARMER",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 754,
+      "img": "https://pop-life.com/foursouls/data/cards/009CursedTumor.png",
+      "title": "CURSED TUMOR",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 755,
+      "img": "https://pop-life.com/foursouls/data/cards/007HolyBony.png",
+      "title": "HOLY BONY",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 756,
+      "img": "https://pop-life.com/foursouls/data/cards/008HolyMulligan.png",
+      "title": "HOLY MULLIGAN",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 757,
+      "img": "https://pop-life.com/foursouls/data/cards/006Tumor.png",
+      "title": "TUMOR",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 758,
+      "img": "https://pop-life.com/foursouls/data/cards/005Bony.png",
+      "title": "BONY",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 759,
+      "img": "https://pop-life.com/foursouls/data/cards/003FlamingHopper.png",
+      "title": "FLAMING HOPPER",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 760,
+      "img": "https://pop-life.com/foursouls/data/cards/004Globin.png",
+      "title": "GOBLIN",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 761,
+      "img": "https://pop-life.com/foursouls/data/cards/002Roundy.png",
+      "title": "ROUNDY",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 762,
+      "img": "https://pop-life.com/foursouls/data/cards/001Sucker.png",
+      "title": "SUCKER",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 763,
+      "img": "https://pop-life.com/foursouls/data/cards/030HeadofKrampus.png",
+      "title": "HEAD OF KRAMPUS",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 764,
+      "img": "https://pop-life.com/foursouls/data/cards/027Athame.png",
+      "title": "ATHAME",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 765,
+      "img": "https://pop-life.com/foursouls/data/cards/028ForgetMeNow.png",
+      "title": "FORGET ME NOW",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 766,
+      "img": "https://pop-life.com/foursouls/data/cards/026MutantSpider.png",
+      "title": "MUTANT SPIDER",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 767,
+      "img": "https://pop-life.com/foursouls/data/cards/025RedCandle.png",
+      "title": "RED CANDLE",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 768,
+      "img": "https://pop-life.com/foursouls/data/cards/024BlackCandle.png",
+      "title": "BLACK CANDLE",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 769,
+      "img": "https://pop-life.com/foursouls/data/cards/022Magnet.png",
+      "title": "MAGNET",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 770,
+      "img": "https://pop-life.com/foursouls/data/cards/023DistantAdmiration.png",
+      "title": "DISTANT ADMIRATION",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 771,
+      "img": "https://pop-life.com/foursouls/data/cards/021RainbowBaby.png",
+      "title": "RAINBOW BABY",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 772,
+      "img": "https://pop-life.com/foursouls/data/cards/020TwentyTwenty.png",
+      "title": "20/20",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 773,
+      "img": "https://pop-life.com/foursouls/data/cards/019SmartFly.png",
+      "title": "SMART FLY",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 774,
+      "img": "https://pop-life.com/foursouls/data/cards/017GameBreakingBug_.png",
+      "title": "GAME BREAKING BUG!",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 775,
+      "img": "https://pop-life.com/foursouls/data/cards/016Hourglass.png",
+      "title": "HOURGLASS",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 776,
+      "img": "https://pop-life.com/foursouls/data/cards/015MamaHaunt.png",
+      "title": "MAMA HAUNT",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 777,
+      "img": "https://pop-life.com/foursouls/data/cards/014GuppysEye.png",
+      "title": "GUPPY'S EYE",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 778,
+      "img": "https://pop-life.com/foursouls/data/cards/013OneUp.png",
+      "title": "1-UP",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 779,
+      "img": "https://pop-life.com/foursouls/data/cards/011DaddyLongLegs.png",
+      "title": "DADDY LONG LEGS",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 780,
+      "img": "https://pop-life.com/foursouls/data/cards/013Abaddon.png",
+      "title": "ABADOON",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 781,
+      "img": "https://pop-life.com/foursouls/data/cards/010TelepathyforDummies.png",
+      "title": "TELEPATHY FOR DUMMIES",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 782,
+      "img": "https://pop-life.com/foursouls/data/cards/009PHD.png",
+      "title": "P.H.D",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 783,
+      "img": "https://pop-life.com/foursouls/data/cards/008RubberCement.png",
+      "title": "RUBBER CEMENT",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 784,
+      "img": "https://pop-life.com/foursouls/data/cards/006MomsEyeShadow.png",
+      "title": "MOM'S EYE SHADOW",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 785,
+      "img": "https://pop-life.com/foursouls/data/cards/007Lard.png",
+      "title": "LARD",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 786,
+      "img": "https://pop-life.com/foursouls/data/cards/005CursedEye.png",
+      "title": "CURSED EYE",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 787,
+      "img": "https://pop-life.com/foursouls/data/cards/003Euthanasia.png",
+      "title": "EUTHANASIA",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 788,
+      "img": "https://pop-life.com/foursouls/data/cards/001Polyphemus.png",
+      "title": "POLYPHEMUS",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 789,
+      "img": "https://pop-life.com/foursouls/data/cards/002TheWiz.png",
+      "title": "THE WIZ",
+      "stack": "four_souls_plus"
+    },
+    {
+      "id": 790,
+      "img": "https://pop-life.com/foursouls/data/cards/004HeadoftheKeeper.png",
+      "title": "HEAD OF THE KEEPER",
+      "stack": "four_souls_plus"
+    }
+  ]
+}
