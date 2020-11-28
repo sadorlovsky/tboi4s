@@ -5,70 +5,80 @@
       "img": "https://pop-life.com/foursouls/data/cards/001Dip.png",
       "title": "DIP",
       "stack": "monster",
-      "text": "\u201cTHEY WILL BE SO HUNGRY\nANO THIRSTY THAT THEY WILL\nEAT THEIR OWN OUNG AND\nORINK THEIR OWN URINE.\u201d\nISAIAH 36:12\n\n \n\f"
+      "text": "\u201cTHEY WILL BE SO HUNGRY\nAND THIRSTY THAT THEY WILL\nEAT THEIR OWN DUNG AND\nDRINK THEIR OWN URINE.\u201d\nISAIAH 36:12\n\n \n\f",
+      "action": "1¢"
     },
     {
       "id": 71,
       "img": "https://pop-life.com/foursouls/data/cards/002Pooter.png",
       "title": "POOTER",
       "stack": "monster",
-      "text": "\u201cHE SPOKE. AND THERE\nCAME A SWARM OF FLIES\nANDO LICE.\"\nPSALM 105:31\n\n \n\f"
+      "text": "\u201cHE SPOKE, AND THERE\nCAME A SWARM OF FLIES\nAND LICE.\"\nPSALM 105:31\n\n \n\f",
+      "action": "LOOT 1"
     },
     {
       "id": 72,
       "img": "https://pop-life.com/foursouls/data/cards/003Fly.png",
       "title": "FLY",
       "stack": "monster",
-      "text": "\u201cWOE TO THE LAND OF\nBUZZING INSECT WINGS BEYOND\nTHE RIVERS OF CUSH.\"\nISAIAH 18:1\n\n \n\f"
+      "text": "\u201cWOE TO THE LAND OF\nBUZZING INSECT WINGS BEYOND\nTHE RIVERS OF CUSH.\"\nISAIAH 18:1\n\n \n\f",
+      "action": "1¢"
     },
     {
       "id": 73,
       "img": "https://pop-life.com/foursouls/data/cards/004Trite(1).png",
       "title": "TRITE",
       "stack": "monster",
-      "text": "\u201cTHE PRIEST 1S TO BRING IT TO\nTHE ALTAR TO OFFER IT UP IN\nSMOKE. HE 1S TO DECAPITATE\nIT ANO ORAIN ITS BLOOD ON THE\nSIDE OF THE ALTAR.\u201d\nLeviticus 1:15\n\n \n\f"
+      "text": "\u201cTHE PRIEST IS TO BRING IT TO\nTHE ALTAR TO OFFER IT UP IN\nSMOKE. HE IS TO DECAPITATE\nIT ANO DRAIN ITS BLOOD ON THE\nSIDE OF THE ALTAR.\u201d\nLEVITICUS 1:15\n\n \n\f",
+      "action": "LOOT 2"
     },
     {
       "id": 74,
       "img": "https://pop-life.com/foursouls/data/cards/005Fatty.png",
       "title": "FATTY",
       "stack": "monster",
-      "text": "=A)\nV4 B:2,\\ 2:1\n\n\"FOR THOSE WHO TAKE\nDELIGHT IN ORINK ANDO FEASTING\nSHALL BECOME POOR.\"\nPROVERBS 23:21\n\n\u00a9: Loot 1\n\n \n\f"
+      "text": "\u201cFOR THOSE WHO TAKE\nDELIGHT IN DRINK AND FEASTING\nSHALL BECOME POOR.\u201d\nPROVERBS 23:21\n\n \n\f",
+      "action": "LOOT 1"
     },
     {
       "id": 75,
       "img": "https://pop-life.com/foursouls/data/cards/006Spider.png",
       "title": "SPIDER",
       "stack": "monster",
-      "text": "\u201cA SPIOER CAN BE CAUGHT\niN YOUR HANDS, YET IT LIVES\nIN KINGS\u2019 PALACES.\u201d\nPROVERBS 30:28\n\n \n\f"
+      "text": "\u201cA SPIDER CAN BE CAUGHT\nIN YOUR HANDS, YET IT LIVES\nIN KINGS\u2019 PALACES.\u201d\nPROVERBS 30:28\n\n \n\f",
+      "action": "LOOT 1"
     },
     {
       "id": 76,
       "img": "https://pop-life.com/foursouls/data/cards/007ConjoinedFatty.png",
       "title": "CONJOINED FATTY",
       "stack": "monster",
-      "text": "\u201cWHEN HER DAYS TO BE\nOELIVEREO WERE FULFILLED.\nBEHOLD. THERE WERE TWINS\n\nIN HER WOMB.\"\nGENESIS 25:24\n\n\u00a9: Loot 2\n\n \n\f"
+      "text": "\u201cWHEN HER DAYS TO BE\nDELIVERED WERE FULFILLED,\nBEHOLD, THERE WERE TWINS\n\nIN HER WOMB.\u201d\nGENESIS 25:24\n\n \n\f",
+      "action": "LOOT 2"
     },
     {
       "id": 77,
       "img": "https://pop-life.com/foursouls/data/cards/008PaleFatty(1).png",
       "title": "PALE FATTY",
       "stack": "monster",
-      "text": "\u201cHIS FACE TURNED PALE. ANDO\nHIS THOUGHTS SO TERRIFIED HIM\nTHAT HIS HIP YOINTS SHOOK AND\nHIS KNEES KNOCKEO TOGETHER.\u201d\n\nOAMEL 5:6\n\n\u00a9: 6\u00a2\n\n \n\f"
+      "text": "\u201cHIS FACE TURNED PALE, AND\nHIS THOUGHTS SO TERRIFIED HIM\nTHAT HIS HIP JOINTS SHOOK AND\nHIS KNEES KNOCKED TOGETHER.\u201d\n\nDANIEL 5:6\n\n \n\f",
+      "action": "6¢"
     },
     {
       "id": 78,
       "img": "https://pop-life.com/foursouls/data/cards/009Leech(1).png",
       "title": "LEECH",
       "stack": "monster",
-      "text": "\u201cHE WILL TAKE NO REST TILL\nHE HAS MADE A MEAL OF\n\nTHOSE HE HAS OVERCOME,\nORINKING THE BLOOD OF THOSE\nHE HAS PUT TO DEATH.\u201d\nNUMBERS 23:24\n\n \n\f"
+      "text": "\u201cHE WILL TAKE NO REST TILL\nHE HAS MADE A MEAL OF\n\nTHOSE HE HAS OVERCOME,\nDRINKING THE BLOOD OF THOSE\nHE HAS PUT TO DEATH.\u201d\nNUMBERS 23:24\n\n \n\f",
+      "action": "LOOT 1"
     },
     {
       "id": 79,
       "img": "https://pop-life.com/foursouls/data/cards/010Clotty(1).png",
       "title": "CLOTTY",
       "stack": "monster",
-      "text": "\"THE ENO OF ALL FLESH\n1S COME BEFORE ME: FOR THE\nEARTH 1S FILLEO WITH VIOLENCE\nTHROUGH THEM.\"\nGENESIS 6:13\n\n \n\f"
+      "text": "\u201cTHE END OF ALL FLESH\nIS COME BEFORE ME; FOR THE\nEARTH IS FILLED WITH VIOLENCE\nTHROUGH THEM.\u201d\nGENESIS 6:13\n\n \n\f",
+      "action": "4¢"
     },
     {
       "id": 80,
