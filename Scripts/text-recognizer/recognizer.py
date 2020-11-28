@@ -23,4 +23,5 @@ def main():
             json.dump(cards_data, writeable_file_stream, indent=2)
 
 
-main()
+if __name__ == "__main__":
+    main()
