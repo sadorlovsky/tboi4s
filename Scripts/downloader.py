@@ -65,11 +65,6 @@ def parse_page(html, stack):
     return cards
 
 
-@click.group()
-def cli():
-    pass
-
-
 @click.command()
 @click.option("--file", "file_name", default="cards.json", type=click.Path())
 @click.option("--rewrite", is_flag=True)
@@ -96,7 +91,6 @@ async def fetch(file_name, rewrite):
             "You can also specify different file name with [bold yellow]--file [FILENAME][/bold yellow] option."
         )
         console.print(message)
-
 
 @click.command()
 @click.option("--file", "file_name", default="cards.json", type=click.Path())
@@ -125,10 +119,3 @@ async def download(file_name, directory, rewrite):
         print("Error", sys.exc_info()[0])
     finally:
         print("Finished")
-
-
-cli.add_command(fetch)
-cli.add_command(download)
-
-if __name__ == "__main__":
-    cli()
