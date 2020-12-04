@@ -1,7 +1,7 @@
-from PIL import Image
+import json
 import pytesseract
 from pathlib import Path
-import json
+from PIL import Image
 
 
 def main():

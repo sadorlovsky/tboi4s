@@ -3,17 +3,17 @@ import sys
 import asyncio
 import httpx
 import json
-from pathlib import Path
-from pyquery import PyQuery as pq
+import asyncclick as click
+import jsonstreams
 import urllib.parse as urlparse
 from urllib.parse import parse_qs
 from operator import itemgetter
 from PIL import Image
 from io import BytesIO
-import asyncclick as click
+from pathlib import Path
+from pyquery import PyQuery as pq
 from rich.console import Console
 from rich.progress import Progress, BarColumn, DownloadColumn, TransferSpeedColumn
-import jsonstreams
 
 console = Console()
 
